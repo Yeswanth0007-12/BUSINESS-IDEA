@@ -1,0 +1,107 @@
+services:
+  # PostgreSQL Database
+  database:
+    image: postgres:14-alpine
+    container_name: packoptima-db
+    environment:
+      POSTGRES_DB: packoptima_db
+      POSTGRES_USER: packoptima_user
+      POSTGRES_PASSWORD: packoptima_password_change_in_production
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U packoptima_user -d packoptima_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - packoptima-network
+
+  # Redis Cache and Queue Broker
+  redis:
+    image: redis:7-alpine
+    container_name: packoptima-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - packoptima-network
+    restart: unless-stopped
+
+  # Backend API
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: packoptima-backend
+    environment:
+      DATABASE_URL: postgresql://packoptima_user:packoptima_password_change_in_production@database:5432/packoptima_db
+      SECRET_KEY: your-super-secret-key-change-this-in-production-min-32-chars
+      ALGORITHM: HS256
+      ACCESS_TOKEN_EXPIRE_HOURS: 24
+      ALLOWED_ORIGINS: '["http://localhost","http://localhost:8080","http://localhost:8000"]'
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/0
+      CELERY_RESULT_BACKEND: redis://redis:6379/0
+    ports:
+      - "8000:8000"
+    depends_on:
+      database:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - packoptima-network
+    restart: unless-stopped
+
+  # Celery Worker
+  celery-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: packoptima-celery-worker
+    command: celery -A app.core.celery_app worker --loglevel=info --concurrency=4 --queues=optimization,bulk
+    environment:
+      DATABASE_URL: postgresql://packoptima_user:packoptima_password_change_in_production@database:5432/packoptima_db
+      SECRET_KEY: your-super-secret-key-change-this-in-production-min-32-chars
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/0
+      CELERY_RESULT_BACKEND: redis://redis:6379/0
+    depends_on:
+      database:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - packoptima-network
+    restart: unless-stopped
+
+  # Frontend
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+      args:
+        VITE_API_URL: http://localhost:8000
+    container_name: packoptima-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    networks:
+      - packoptima-network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  packoptima-network:
+    driver: bridge

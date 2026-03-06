@@ -1,0 +1,80 @@
+groups:
+  - name: packoptima_api
+    interval: 30s
+    rules:
+      # API Response Time
+      - alert: HighAPIResponseTime
+        expr: histogram_quantile(0.95, rate(http_request_duration_seconds_bucket[5m])) > 1
+        for: 5m
+        labels:
+          severity: warning
+          component: api
+        annotations:
+          summary: "High API response time"
+          description: "API p95 response time is {{ $value }}s (threshold: 1s)"
+
+      # Error Rate
+      - alert: HighErrorRate
+        expr: rate(http_requests_total{status=~"5.."}[5m]) / rate(http_requests_total[5m]) > 0.05
+        for: 5m
+        labels:
+          severity: critical
+          component: api
+        annotations:
+          summary: "High error rate"
+          description: "Error rate is {{ $value | humanizePercentage }} (threshold: 5%)"
+
+      # Queue Depth
+      - alert: HighQueueDepth
+        expr: celery_queue_length > 1000
+        for: 10m
+        labels:
+          severity: warning
+          component: queue
+        annotations:
+          summary: "High queue depth"
+          description: "Queue depth is {{ $value }} tasks (threshold: 1000)"
+
+      # Database Connections
+      - alert: HighDatabaseConnections
+        expr: pg_stat_database_numbackends / pg_settings_max_connections > 0.8
+        for: 5m
+        labels:
+          severity: warning
+          component: database
+        annotations:
+          summary: "High database connection usage"
+          description: "Database connections at {{ $value | humanizePercentage }} of pool"
+
+      # Redis Memory
+      - alert: HighRedisMemory
+        expr: redis_memory_used_bytes / redis_memory_max_bytes > 0.8
+        for: 5m
+        labels:
+          severity: warning
+          component: redis
+        annotations:
+          summary: "High Redis memory usage"
+          description: "Redis memory at {{ $value | humanizePercentage }} of limit"
+
+      # Celery Worker Down
+      - alert: CeleryWorkerDown
+        expr: up{job="packoptima-workers"} == 0
+        for: 2m
+        labels:
+          severity: critical
+          component: worker
+        annotations:
+          summary: "Celery worker is down"
+          description: "Worker {{ $labels.instance }} is not responding"
+
+      # API Server Down
+      - alert: APIServerDown
+        expr: up{job="packoptima-api"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          component: api
+        annotations:
+          summary: "API server is down"
+          description: "API server {{ $labels.instance }} is not responding"

@@ -1,0 +1,93 @@
+{
+  "dashboard": {
+    "title": "PackOptima Database Metrics",
+    "tags": ["packoptima", "database", "postgresql"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Database Connections",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0},
+        "targets": [
+          {
+            "expr": "pg_stat_database_numbackends",
+            "legendFormat": "Active Connections"
+          },
+          {
+            "expr": "pg_settings_max_connections",
+            "legendFormat": "Max Connections"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Query Duration (p95)",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0},
+        "targets": [
+          {
+            "expr": "histogram_quantile(0.95, rate(pg_stat_statements_mean_exec_time_bucket[5m]))",
+            "legendFormat": "p95 Query Time"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Transactions per Second",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 8},
+        "targets": [
+          {
+            "expr": "rate(pg_stat_database_xact_commit[5m])",
+            "legendFormat": "Commits"
+          },
+          {
+            "expr": "rate(pg_stat_database_xact_rollback[5m])",
+            "legendFormat": "Rollbacks"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Database Size",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 8},
+        "targets": [
+          {
+            "expr": "pg_database_size_bytes",
+            "legendFormat": "{{datname}}"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Cache Hit Ratio",
+        "type": "gauge",
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 16},
+        "targets": [
+          {
+            "expr": "pg_stat_database_blks_hit / (pg_stat_database_blks_hit + pg_stat_database_blks_read)"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Slow Queries (>1s)",
+        "type": "table",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 16},
+        "targets": [
+          {
+            "expr": "topk(10, pg_stat_statements_mean_exec_time > 1000)",
+            "format": "table"
+          }
+        ]
+      }
+    ],
+    "refresh": "30s",
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    }
+  }
+}

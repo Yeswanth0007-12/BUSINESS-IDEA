@@ -1,0 +1,99 @@
+{
+  "dashboard": {
+    "title": "PackOptima Queue Metrics",
+    "tags": ["packoptima", "celery", "queue"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Queue Depth",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0},
+        "targets": [
+          {
+            "expr": "celery_queue_length",
+            "legendFormat": "{{queue}}"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Task Processing Rate",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0},
+        "targets": [
+          {
+            "expr": "rate(celery_tasks_total[5m])",
+            "legendFormat": "{{task_type}}"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Task Success/Failure Rate",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 8},
+        "targets": [
+          {
+            "expr": "rate(celery_tasks_total{status=\"success\"}[5m])",
+            "legendFormat": "Success"
+          },
+          {
+            "expr": "rate(celery_tasks_total{status=\"failure\"}[5m])",
+            "legendFormat": "Failure"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Average Task Duration",
+        "type": "graph",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 8},
+        "targets": [
+          {
+            "expr": "rate(celery_task_duration_seconds_sum[5m]) / rate(celery_task_duration_seconds_count[5m])",
+            "legendFormat": "{{task_type}}"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Active Workers",
+        "type": "stat",
+        "gridPos": {"h": 4, "w": 6, "x": 0, "y": 16},
+        "targets": [
+          {
+            "expr": "celery_active_workers"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Total Tasks Processed",
+        "type": "stat",
+        "gridPos": {"h": 4, "w": 6, "x": 6, "y": 16},
+        "targets": [
+          {
+            "expr": "sum(celery_tasks_total)"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Task Distribution by Type",
+        "type": "piechart",
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 16},
+        "targets": [
+          {
+            "expr": "sum by(task_type) (celery_tasks_total)"
+          }
+        ]
+      }
+    ],
+    "refresh": "30s",
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    }
+  }
+}

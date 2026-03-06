@@ -1,0 +1,4 @@
+name,length_cm,width_cm,height_cm,cost_per_unit
+Small Box,20,15,10,1.50
+Medium Box,35,25,15,2.50
+Large Box,50,40,20,3.50

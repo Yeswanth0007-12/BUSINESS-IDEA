@@ -1,0 +1,21 @@
+name,length_cm,width_cm,height_cm,cost_per_unit
+Extra Small Envelope,25,18,2,0.45
+Small Box,30,20,10,0.85
+Medium Box,40,30,15,1.25
+Large Box,50,40,20,1.85
+Extra Large Box,60,50,30,2.65
+Jumbo Box,80,60,40,3.95
+Flat Mailer,35,25,3,0.65
+Cube Box Small,25,25,25,1.15
+Cube Box Medium,35,35,35,1.75
+Cube Box Large,45,45,45,2.45
+Long Box,70,20,15,1.95
+Wide Box,50,50,20,2.25
+Tall Box,30,30,50,2.15
+Document Box,40,30,8,0.95
+Gift Box Small,20,20,15,1.35
+Gift Box Medium,30,30,20,1.85
+Gift Box Large,40,40,25,2.55
+Shipping Tube,60,10,10,1.45
+Padded Envelope,30,22,2,0.75
+Heavy Duty Box,50,40,30,3.25

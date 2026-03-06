@@ -1,0 +1,4 @@
+name,sku,category,length_cm,width_cm,height_cm,weight_kg,monthly_order_volume
+Laptop Computer,LAP-TEST-001,Electronics,35,25,5,2.5,150
+Wireless Mouse,MOU-TEST-001,Electronics,12,8,4,0.15,300
+USB Cable,CAB-TEST-001,Accessories,15,10,2,0.05,500

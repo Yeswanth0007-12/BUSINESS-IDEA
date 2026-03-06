@@ -1,0 +1,1001 @@
+name,sku,category,length_cm,width_cm,height_cm,weight_kg,monthly_order_volume
+Textbook 0001,BOO-0001,Books,26.0,22.5,4.9,1.46,94
+Stuffed Animal 0002,TOY-0002,Toys,23.8,19.8,18.6,0.67,113
+Picture Frame 0003,FRA-0003,Fragile,28.6,25.2,3.7,1.35,85
+Action Figure 0004,TOY-0004,Toys,16.7,13.1,5.0,0.3,168
+Mouse 0005,ELE-0005,Electronics,13.9,6.8,3.7,0.14,178
+Board Game 0006,TOY-0006,Toys,28.6,26.9,6.6,0.71,99
+Headphones 0007,ELE-0007,Electronics,18.8,15.7,9.0,0.43,103
+Jeans 0008,CLO-0008,Clothing,36.3,26.4,5.6,0.74,1159
+USB Cable 0009,ELE-0009,Electronics,23.5,10.1,2.2,0.14,117
+Textbook 0010,BOO-0010,Books,33.0,21.4,5.0,2.34,108
+Puzzle 0011,TOY-0011,Toys,36.2,27.6,4.4,0.8,86
+Paperback Book 0012,BOO-0012,Books,18.6,15.3,2.9,0.57,41
+Laptop 0013,ELE-0013,Electronics,33.7,20.6,2.5,2.24,47
+Mouse 0014,ELE-0014,Electronics,10.9,7.7,4.3,0.11,52
+Shoes 0015,CLO-0015,Clothing,33.6,18.6,12.2,0.64,41
+Puzzle 0016,TOY-0016,Toys,38.5,26.0,4.6,0.51,54
+Ceramic Mug 0017,FRA-0017,Fragile,13.4,11.6,11.2,0.38,111
+Magazine 0018,BOO-0018,Books,34.8,24.0,0.7,0.27,100
+USB Cable 0019,ELE-0019,Electronics,20.2,11.9,3.1,0.11,120
+Laptop 0020,ELE-0020,Electronics,34.6,23.9,4.2,2.62,56
+Phone Case 0021,ELE-0021,Electronics,19.6,8.6,1.9,0.11,41
+Headphones 0022,ELE-0022,Electronics,24.8,17.8,9.5,0.28,82
+Webcam 0023,ELE-0023,Electronics,9.5,7.2,5.7,0.24,120
+T-Shirt 0024,CLO-0024,Clothing,31.0,21.7,2.7,0.24,113
+Webcam 0025,ELE-0025,Electronics,9.4,7.6,8.0,0.38,92
+Phone Case 0026,ELE-0026,Electronics,15.7,9.9,1.0,0.11,232
+Board Game 0027,TOY-0027,Toys,36.7,30.7,6.9,1.38,87
+Keyboard 0028,ELE-0028,Electronics,42.8,14.4,2.5,0.92,192
+Action Figure 0029,TOY-0029,Toys,20.9,16.4,7.3,0.14,115
+Ceramic Mug 0030,FRA-0030,Fragile,12.8,14.7,10.9,0.36,182
+Jeans 0031,CLO-0031,Clothing,38.0,30.6,5.2,0.72,94
+Laptop 0032,ELE-0032,Electronics,37.1,29.8,4.8,1.76,108
+Paperback Book 0033,BOO-0033,Books,21.2,16.4,2.6,0.55,599
+Webcam 0034,ELE-0034,Electronics,10.0,5.9,7.3,0.4,55
+SSD Drive 0035,ELE-0035,Electronics,14.0,7.1,1.4,0.1,588
+Stuffed Animal 0036,TOY-0036,Toys,29.7,28.2,26.4,0.43,240
+Jeans 0037,CLO-0037,Clothing,34.2,27.6,5.9,0.56,107
+Action Figure 0038,TOY-0038,Toys,16.3,12.0,9.8,0.39,41
+Board Game 0039,TOY-0039,Toys,26.1,38.5,9.5,1.34,188
+Phone Case 0040,ELE-0040,Electronics,19.1,9.6,1.6,0.09,112
+USB Cable 0041,ELE-0041,Electronics,17.5,14.5,4.0,0.28,98
+Picture Frame 0042,FRA-0042,Fragile,23.7,20.9,2.1,0.55,46
+Hardcover Book 0043,BOO-0043,Books,24.7,21.8,4.5,0.83,100
+Socks 0044,CLO-0044,Clothing,21.7,10.4,2.1,0.14,53
+Power Bank 0045,ELE-0045,Electronics,14.0,7.2,3.1,0.37,56
+Webcam 0046,ELE-0046,Electronics,8.7,7.9,7.8,0.49,80
+Action Figure 0047,TOY-0047,Toys,18.7,16.3,5.3,0.1,84
+USB Cable 0048,ELE-0048,Electronics,18.2,10.1,3.4,0.16,82
+Webcam 0049,ELE-0049,Electronics,11.7,6.0,5.4,0.48,104
+Jacket 0050,CLO-0050,Clothing,54.4,48.1,7.0,0.69,117
+T-Shirt 0051,CLO-0051,Clothing,35.0,29.2,3.2,0.18,95
+Paperback Book 0052,BOO-0052,Books,20.4,13.9,2.8,0.4,103
+Webcam 0053,ELE-0053,Electronics,9.2,5.9,6.8,0.43,48
+SSD Drive 0054,ELE-0054,Electronics,15.0,8.9,2.9,0.17,112
+Picture Frame 0055,FRA-0055,Fragile,37.4,19.2,4.4,1.47,118
+Jeans 0056,CLO-0056,Clothing,32.5,32.8,5.6,0.74,206
+USB Cable 0057,ELE-0057,Electronics,18.3,11.4,3.1,0.17,533
+Shoes 0058,CLO-0058,Clothing,29.8,18.2,11.0,0.61,43
+USB Cable 0059,ELE-0059,Electronics,19.1,13.2,2.6,0.2,52
+Monitor 0060,ELE-0060,Electronics,59.3,43.3,5.6,4.4,88
+Shoes 0061,CLO-0061,Clothing,34.8,17.0,12.0,0.98,192
+Headphones 0062,ELE-0062,Electronics,19.0,16.7,8.6,0.25,49
+Socks 0063,CLO-0063,Clothing,23.8,13.1,3.6,0.14,163
+Ceramic Mug 0064,FRA-0064,Fragile,12.3,13.3,14.9,0.36,90
+Power Bank 0065,ELE-0065,Electronics,17.5,6.2,3.9,0.48,185
+Power Bank 0066,ELE-0066,Electronics,17.8,9.3,2.6,0.42,495
+Stuffed Animal 0067,TOY-0067,Toys,34.4,27.6,28.8,0.68,168
+Stuffed Animal 0068,TOY-0068,Toys,36.2,27.5,22.4,0.8,40
+Phone Case 0069,ELE-0069,Electronics,18.8,8.0,1.2,0.12,118
+Puzzle 0070,TOY-0070,Toys,34.4,22.4,4.8,1.0,169
+Glass Vase 0071,FRA-0071,Fragile,21.2,24.1,30.4,1.0,117
+Monitor 0072,ELE-0072,Electronics,58.9,38.4,7.9,3.65,93
+Laptop 0073,ELE-0073,Electronics,30.7,20.2,2.9,2.29,51
+Magazine 0074,BOO-0074,Books,31.9,20.5,1.3,0.39,54
+Action Figure 0075,TOY-0075,Toys,23.0,17.5,5.0,0.19,100
+Socks 0076,CLO-0076,Clothing,22.0,14.5,2.1,0.12,117
+Monitor 0077,ELE-0077,Electronics,59.6,32.9,7.2,3.73,543
+Headphones 0078,ELE-0078,Electronics,22.9,19.5,7.4,0.27,60
+Stuffed Animal 0079,TOY-0079,Toys,37.4,20.2,17.8,0.66,1038
+Ceramic Mug 0080,FRA-0080,Fragile,13.4,14.6,14.3,0.6,45
+Magazine 0081,BOO-0081,Books,33.3,20.2,1.5,0.42,114
+Ceramic Mug 0082,FRA-0082,Fragile,14.7,11.7,10.6,0.55,59
+Hardcover Book 0083,BOO-0083,Books,23.2,18.7,3.7,1.22,81
+Action Figure 0084,TOY-0084,Toys,21.7,12.6,7.8,0.32,217
+Action Figure 0085,TOY-0085,Toys,20.5,15.4,8.0,0.2,899
+USB Cable 0086,ELE-0086,Electronics,17.3,14.7,2.0,0.27,60
+Webcam 0087,ELE-0087,Electronics,11.1,5.7,6.3,0.4,46
+Monitor 0088,ELE-0088,Electronics,64.2,36.6,8.3,7.81,43
+SSD Drive 0089,ELE-0089,Electronics,11.5,9.8,1.9,0.14,449
+Puzzle 0090,TOY-0090,Toys,38.8,28.6,3.8,0.87,49
+Picture Frame 0091,FRA-0091,Fragile,37.4,26.3,2.6,0.7,99
+Textbook 0092,BOO-0092,Books,25.9,21.3,5.9,1.25,108
+Laptop 0093,ELE-0093,Electronics,39.8,24.0,3.1,2.13,89
+Mouse 0094,ELE-0094,Electronics,11.1,7.5,3.1,0.29,188
+Picture Frame 0095,FRA-0095,Fragile,20.3,15.9,4.8,0.54,49
+Action Figure 0096,TOY-0096,Toys,20.2,12.0,5.5,0.23,106
+Jacket 0097,CLO-0097,Clothing,44.3,46.7,8.5,0.95,41
+USB Cable 0098,ELE-0098,Electronics,20.0,12.5,2.6,0.2,50
+Picture Frame 0099,FRA-0099,Fragile,32.8,23.4,2.6,0.9,54
+Board Game 0100,TOY-0100,Toys,33.0,32.4,9.7,0.59,505
+Action Figure 0101,TOY-0101,Toys,19.9,15.0,5.1,0.2,46
+Ceramic Mug 0102,FRA-0102,Fragile,12.1,11.9,11.3,0.37,172
+Magazine 0103,BOO-0103,Books,32.0,20.1,1.5,0.24,40
+Board Game 0104,TOY-0104,Toys,38.1,39.7,6.6,0.7,104
+Action Figure 0105,TOY-0105,Toys,21.1,15.5,5.9,0.39,87
+Picture Frame 0106,FRA-0106,Fragile,34.9,28.8,4.6,1.1,57
+Paperback Book 0107,BOO-0107,Books,23.5,15.1,2.6,0.57,49
+Magazine 0108,BOO-0108,Books,26.6,26.0,1.5,0.24,119
+Keyboard 0109,ELE-0109,Electronics,44.0,12.2,3.3,1.18,169
+T-Shirt 0110,CLO-0110,Clothing,30.4,29.1,2.6,0.27,109
+Stuffed Animal 0111,TOY-0111,Toys,27.8,26.7,16.0,0.75,46
+Puzzle 0112,TOY-0112,Toys,32.6,22.9,4.7,0.67,80
+Textbook 0113,BOO-0113,Books,28.9,22.8,5.8,1.51,101
+USB Cable 0114,ELE-0114,Electronics,20.9,10.7,3.2,0.18,111
+Socks 0115,CLO-0115,Clothing,17.2,14.6,3.8,0.1,41
+Action Figure 0116,TOY-0116,Toys,21.6,12.1,7.5,0.31,112
+Power Bank 0117,ELE-0117,Electronics,13.9,7.8,3.1,0.35,163
+T-Shirt 0118,CLO-0118,Clothing,28.8,23.2,3.7,0.29,59
+Magazine 0119,BOO-0119,Books,31.1,23.2,1.2,0.48,470
+Glass Vase 0120,FRA-0120,Fragile,22.6,23.4,31.5,0.97,55
+Keyboard 0121,ELE-0121,Electronics,43.3,16.7,2.6,1.15,48
+Jacket 0122,CLO-0122,Clothing,45.3,49.4,6.4,0.89,42
+Picture Frame 0123,FRA-0123,Fragile,36.0,17.5,4.2,0.66,107
+T-Shirt 0124,CLO-0124,Clothing,27.1,28.2,4.7,0.29,194
+Jeans 0125,CLO-0125,Clothing,35.5,33.7,4.1,0.53,98
+Monitor 0126,ELE-0126,Electronics,63.0,47.5,6.6,7.79,229
+Mouse 0127,ELE-0127,Electronics,14.7,8.9,4.1,0.15,101
+Paperback Book 0128,BOO-0128,Books,19.2,15.7,1.1,0.29,113
+Stuffed Animal 0129,TOY-0129,Toys,20.3,18.1,27.4,0.21,46
+Phone Case 0130,ELE-0130,Electronics,16.5,9.3,1.6,0.11,116
+Power Bank 0131,ELE-0131,Electronics,16.6,6.5,3.2,0.34,45
+Jeans 0132,CLO-0132,Clothing,35.3,27.1,5.3,0.5,50
+Jacket 0133,CLO-0133,Clothing,44.4,42.6,8.6,0.65,59
+Hardcover Book 0134,BOO-0134,Books,22.9,23.8,2.7,1.43,236
+Phone Case 0135,ELE-0135,Electronics,16.1,9.7,1.6,0.08,114
+Board Game 0136,TOY-0136,Toys,29.6,36.6,9.9,1.0,471
+Picture Frame 0137,FRA-0137,Fragile,32.6,20.9,4.4,1.3,84
+Glass Vase 0138,FRA-0138,Fragile,15.1,16.0,22.2,0.84,106
+Textbook 0139,BOO-0139,Books,28.1,21.1,3.4,1.12,60
+Action Figure 0140,TOY-0140,Toys,19.4,12.4,5.6,0.1,163
+Shoes 0141,CLO-0141,Clothing,30.6,19.5,13.6,0.84,213
+Ceramic Mug 0142,FRA-0142,Fragile,13.1,12.5,10.8,0.49,52
+Mouse 0143,ELE-0143,Electronics,12.4,7.2,3.2,0.23,93
+Jacket 0144,CLO-0144,Clothing,46.0,43.1,6.7,1.18,83
+Phone Case 0145,ELE-0145,Electronics,19.2,11.1,1.9,0.06,102
+Power Bank 0146,ELE-0146,Electronics,13.1,7.9,3.6,0.38,967
+Picture Frame 0147,FRA-0147,Fragile,36.8,21.2,2.5,1.04,239
+Magazine 0148,BOO-0148,Books,34.1,23.9,1.0,0.31,114
+Puzzle 0149,TOY-0149,Toys,33.0,26.0,5.3,0.53,51
+Mouse 0150,ELE-0150,Electronics,11.4,8.8,4.0,0.13,523
+Socks 0151,CLO-0151,Clothing,22.1,11.1,3.5,0.08,51
+Webcam 0152,ELE-0152,Electronics,11.4,6.3,6.0,0.29,99
+SSD Drive 0153,ELE-0153,Electronics,14.7,8.4,1.0,0.11,58
+Laptop 0154,ELE-0154,Electronics,39.6,28.2,4.3,2.43,82
+Picture Frame 0155,FRA-0155,Fragile,28.7,25.6,4.6,1.05,58
+Laptop 0156,ELE-0156,Electronics,35.3,22.2,3.0,1.96,119
+Shoes 0157,CLO-0157,Clothing,27.4,23.2,11.6,0.96,117
+Magazine 0158,BOO-0158,Books,29.1,24.4,0.9,0.22,48
+Ceramic Mug 0159,FRA-0159,Fragile,10.8,14.3,11.3,0.32,193
+Action Figure 0160,TOY-0160,Toys,23.0,12.6,7.5,0.15,234
+Ceramic Mug 0161,FRA-0161,Fragile,10.4,13.1,11.4,0.34,104
+Paperback Book 0162,BOO-0162,Books,19.7,17.1,1.7,0.54,215
+Laptop 0163,ELE-0163,Electronics,33.8,29.4,3.9,2.22,47
+Board Game 0164,TOY-0164,Toys,30.4,25.7,9.8,0.56,88
+Phone Case 0165,ELE-0165,Electronics,18.1,12.0,1.9,0.07,104
+Webcam 0166,ELE-0166,Electronics,11.6,7.5,5.4,0.49,238
+Magazine 0167,BOO-0167,Books,34.5,26.2,1.2,0.38,433
+Puzzle 0168,TOY-0168,Toys,38.5,20.4,3.1,0.48,99
+Webcam 0169,ELE-0169,Electronics,9.4,5.4,5.8,0.33,53
+Keyboard 0170,ELE-0170,Electronics,40.6,15.6,2.6,0.81,117
+Laptop 0171,ELE-0171,Electronics,30.0,21.9,2.9,1.87,87
+Glass Vase 0172,FRA-0172,Fragile,21.0,17.4,26.8,1.41,80
+Laptop 0173,ELE-0173,Electronics,32.1,22.5,4.8,2.79,59
+SSD Drive 0174,ELE-0174,Electronics,11.2,7.1,1.5,0.15,97
+Magazine 0175,BOO-0175,Books,29.3,22.7,1.2,0.27,41
+Stuffed Animal 0176,TOY-0176,Toys,32.4,29.7,26.9,0.55,85
+T-Shirt 0177,CLO-0177,Clothing,32.1,29.0,4.1,0.2,95
+Webcam 0178,ELE-0178,Electronics,11.9,5.2,5.6,0.39,193
+Action Figure 0179,TOY-0179,Toys,24.2,10.3,8.3,0.38,44
+Shoes 0180,CLO-0180,Clothing,33.5,18.9,11.4,0.7,96
+Stuffed Animal 0181,TOY-0181,Toys,39.6,27.9,25.1,0.2,216
+Magazine 0182,BOO-0182,Books,34.8,23.0,1.2,0.41,84
+Webcam 0183,ELE-0183,Electronics,10.2,5.7,6.6,0.35,89
+Shoes 0184,CLO-0184,Clothing,30.0,19.7,13.0,0.75,82
+Picture Frame 0185,FRA-0185,Fragile,30.7,18.2,3.2,1.26,55
+Picture Frame 0186,FRA-0186,Fragile,22.0,19.0,2.0,1.14,42
+Monitor 0187,ELE-0187,Electronics,68.9,41.3,5.1,3.14,213
+Action Figure 0188,TOY-0188,Toys,23.0,15.7,9.7,0.14,92
+Stuffed Animal 0189,TOY-0189,Toys,36.7,21.4,18.8,0.27,53
+T-Shirt 0190,CLO-0190,Clothing,29.1,26.9,2.7,0.17,219
+Monitor 0191,ELE-0191,Electronics,63.4,48.0,8.6,6.18,211
+Socks 0192,CLO-0192,Clothing,24.9,11.3,2.1,0.11,58
+Jeans 0193,CLO-0193,Clothing,32.6,34.1,5.3,0.78,49
+SSD Drive 0194,ELE-0194,Electronics,10.1,9.8,1.5,0.17,107
+Puzzle 0195,TOY-0195,Toys,33.6,28.9,3.9,0.44,49
+SSD Drive 0196,ELE-0196,Electronics,10.4,8.9,3.0,0.19,173
+Action Figure 0197,TOY-0197,Toys,17.9,16.3,5.7,0.39,46
+USB Cable 0198,ELE-0198,Electronics,24.6,13.8,3.1,0.13,58
+Monitor 0199,ELE-0199,Electronics,69.0,37.7,5.1,4.56,57
+Jacket 0200,CLO-0200,Clothing,47.7,36.9,9.2,0.72,57
+Socks 0201,CLO-0201,Clothing,15.6,11.7,3.0,0.12,112
+Picture Frame 0202,FRA-0202,Fragile,25.7,23.7,3.4,1.15,41
+Action Figure 0203,TOY-0203,Toys,16.0,15.9,6.4,0.15,49
+USB Cable 0204,ELE-0204,Electronics,24.7,10.7,2.8,0.17,104
+Textbook 0205,BOO-0205,Books,28.5,22.3,5.6,1.76,496
+SSD Drive 0206,ELE-0206,Electronics,12.2,7.2,1.7,0.17,50
+Glass Vase 0207,FRA-0207,Fragile,16.5,19.5,34.5,0.59,87
+Jacket 0208,CLO-0208,Clothing,46.3,45.4,6.4,0.99,172
+T-Shirt 0209,CLO-0209,Clothing,28.1,21.7,4.0,0.15,44
+SSD Drive 0210,ELE-0210,Electronics,12.8,8.3,2.0,0.13,93
+SSD Drive 0211,ELE-0211,Electronics,14.7,7.4,1.7,0.17,45
+Board Game 0212,TOY-0212,Toys,30.4,37.1,8.3,0.72,190
+Magazine 0213,BOO-0213,Books,26.5,26.3,1.3,0.25,223
+Textbook 0214,BOO-0214,Books,27.4,22.2,4.7,2.16,58
+Hardcover Book 0215,BOO-0215,Books,20.1,20.9,3.9,1.3,53
+USB Cable 0216,ELE-0216,Electronics,19.0,13.7,2.8,0.15,477
+Power Bank 0217,ELE-0217,Electronics,12.4,7.3,2.3,0.53,88
+Glass Vase 0218,FRA-0218,Fragile,18.8,23.9,31.0,1.34,80
+Laptop 0219,ELE-0219,Electronics,31.1,28.5,4.0,2.49,112
+Ceramic Mug 0220,FRA-0220,Fragile,13.8,10.6,11.7,0.51,94
+Hardcover Book 0221,BOO-0221,Books,25.8,23.2,4.3,1.14,51
+Picture Frame 0222,FRA-0222,Fragile,28.1,24.5,2.9,0.82,59
+Socks 0223,CLO-0223,Clothing,22.1,13.2,3.2,0.13,57
+Textbook 0224,BOO-0224,Books,34.5,23.5,4.8,1.05,230
+SSD Drive 0225,ELE-0225,Electronics,13.7,9.4,2.9,0.12,49
+Magazine 0226,BOO-0226,Books,30.0,20.5,1.3,0.47,53
+Webcam 0227,ELE-0227,Electronics,9.4,7.8,5.9,0.47,192
+Jeans 0228,CLO-0228,Clothing,30.9,29.3,5.1,0.54,191
+Action Figure 0229,TOY-0229,Toys,23.0,16.7,6.8,0.36,109
+Action Figure 0230,TOY-0230,Toys,23.8,11.9,7.7,0.12,54
+Hardcover Book 0231,BOO-0231,Books,24.2,17.3,4.3,0.66,51
+Jeans 0232,CLO-0232,Clothing,37.1,34.4,3.7,0.66,95
+Action Figure 0233,TOY-0233,Toys,18.6,11.3,9.8,0.1,240
+Headphones 0234,ELE-0234,Electronics,22.2,16.0,6.7,0.24,109
+USB Cable 0235,ELE-0235,Electronics,22.4,10.2,2.9,0.22,60
+Paperback Book 0236,BOO-0236,Books,20.2,16.5,2.6,0.38,90
+Jeans 0237,CLO-0237,Clothing,39.5,26.9,5.9,0.65,175
+Hardcover Book 0238,BOO-0238,Books,23.8,16.6,3.9,0.54,118
+Magazine 0239,BOO-0239,Books,29.4,20.3,0.8,0.24,557
+Socks 0240,CLO-0240,Clothing,15.7,10.5,2.8,0.14,162
+Ceramic Mug 0241,FRA-0241,Fragile,13.2,12.9,10.5,0.52,118
+Headphones 0242,ELE-0242,Electronics,24.5,17.5,8.7,0.47,94
+Webcam 0243,ELE-0243,Electronics,10.2,7.7,7.3,0.38,194
+Hardcover Book 0244,BOO-0244,Books,28.5,18.7,4.3,0.53,109
+Hardcover Book 0245,BOO-0245,Books,23.1,21.8,3.6,1.12,408
+Power Bank 0246,ELE-0246,Electronics,12.2,9.1,2.7,0.37,92
+Mouse 0247,ELE-0247,Electronics,11.7,6.0,4.9,0.19,177
+Jacket 0248,CLO-0248,Clothing,43.7,49.7,9.3,0.62,50
+Board Game 0249,TOY-0249,Toys,27.3,25.4,7.2,0.86,58
+Glass Vase 0250,FRA-0250,Fragile,21.9,22.3,27.2,1.46,175
+Jacket 0251,CLO-0251,Clothing,46.2,37.5,7.7,0.88,167
+Textbook 0252,BOO-0252,Books,25.1,21.4,3.2,1.2,41
+Power Bank 0253,ELE-0253,Electronics,15.3,9.4,2.2,0.41,233
+Textbook 0254,BOO-0254,Books,27.6,27.5,4.8,1.18,162
+Jeans 0255,CLO-0255,Clothing,30.8,29.9,4.0,0.78,435
+Power Bank 0256,ELE-0256,Electronics,13.7,8.8,2.3,0.45,108
+Keyboard 0257,ELE-0257,Electronics,46.7,16.4,3.7,1.14,96
+Textbook 0258,BOO-0258,Books,27.7,25.2,5.8,1.77,53
+Puzzle 0259,TOY-0259,Toys,41.3,24.9,4.2,0.5,57
+Puzzle 0260,TOY-0260,Toys,31.8,22.2,4.3,0.45,97
+Socks 0261,CLO-0261,Clothing,15.8,11.2,3.9,0.07,50
+Paperback Book 0262,BOO-0262,Books,24.3,15.7,2.7,0.53,106
+Glass Vase 0263,FRA-0263,Fragile,20.2,16.8,20.6,1.34,46
+Webcam 0264,ELE-0264,Electronics,11.8,7.1,7.2,0.43,47
+Keyboard 0265,ELE-0265,Electronics,45.5,15.6,3.1,0.68,113
+Jacket 0266,CLO-0266,Clothing,52.2,41.0,5.1,0.76,96
+Action Figure 0267,TOY-0267,Toys,20.9,12.7,7.3,0.23,44
+Stuffed Animal 0268,TOY-0268,Toys,23.1,24.6,29.3,0.65,184
+Puzzle 0269,TOY-0269,Toys,40.5,29.4,3.3,0.82,103
+Socks 0270,CLO-0270,Clothing,17.1,11.4,3.4,0.13,43
+Ceramic Mug 0271,FRA-0271,Fragile,13.5,10.5,11.5,0.34,57
+Magazine 0272,BOO-0272,Books,29.7,27.1,0.7,0.29,237
+Picture Frame 0273,FRA-0273,Fragile,25.4,19.8,4.4,0.66,44
+Jeans 0274,CLO-0274,Clothing,39.9,32.6,3.6,0.78,498
+Glass Vase 0275,FRA-0275,Fragile,17.0,18.9,24.3,0.52,83
+Action Figure 0276,TOY-0276,Toys,21.2,15.1,8.0,0.23,47
+Webcam 0277,ELE-0277,Electronics,11.0,5.3,6.2,0.32,51
+Keyboard 0278,ELE-0278,Electronics,43.2,14.5,3.3,0.76,57
+Action Figure 0279,TOY-0279,Toys,15.7,13.9,8.8,0.13,207
+Mouse 0280,ELE-0280,Electronics,10.8,6.2,4.3,0.25,199
+Action Figure 0281,TOY-0281,Toys,17.5,12.6,7.6,0.22,170
+Paperback Book 0282,BOO-0282,Books,23.9,16.3,2.4,0.58,60
+Hardcover Book 0283,BOO-0283,Books,27.0,23.5,3.7,1.16,51
+Board Game 0284,TOY-0284,Toys,35.8,29.9,5.7,0.83,43
+Textbook 0285,BOO-0285,Books,33.4,27.2,4.6,2.33,59
+Socks 0286,CLO-0286,Clothing,20.6,15.0,3.7,0.07,106
+T-Shirt 0287,CLO-0287,Clothing,28.0,20.1,4.2,0.15,48
+T-Shirt 0288,CLO-0288,Clothing,32.9,25.6,2.1,0.18,54
+Webcam 0289,ELE-0289,Electronics,9.6,5.6,7.5,0.22,445
+USB Cable 0290,ELE-0290,Electronics,23.2,14.1,2.5,0.11,172
+Textbook 0291,BOO-0291,Books,25.7,24.2,4.3,1.65,89
+Paperback Book 0292,BOO-0292,Books,20.0,16.3,2.2,0.53,203
+Stuffed Animal 0293,TOY-0293,Toys,30.5,27.0,15.4,0.6,86
+T-Shirt 0294,CLO-0294,Clothing,25.9,27.1,2.3,0.18,106
+T-Shirt 0295,CLO-0295,Clothing,25.2,25.8,4.9,0.29,83
+Textbook 0296,BOO-0296,Books,34.5,22.6,3.6,1.86,115
+Board Game 0297,TOY-0297,Toys,28.0,30.8,6.3,0.54,106
+Keyboard 0298,ELE-0298,Electronics,43.2,13.9,3.0,0.93,60
+T-Shirt 0299,CLO-0299,Clothing,35.0,23.3,2.2,0.28,97
+SSD Drive 0300,ELE-0300,Electronics,11.3,9.3,1.7,0.16,236
+Puzzle 0301,TOY-0301,Toys,33.3,28.4,3.4,1.0,97
+Keyboard 0302,ELE-0302,Electronics,42.7,15.4,3.8,0.99,104
+Keyboard 0303,ELE-0303,Electronics,42.3,12.4,3.1,1.11,89
+Phone Case 0304,ELE-0304,Electronics,17.5,9.8,2.0,0.1,108
+Action Figure 0305,TOY-0305,Toys,15.2,13.9,8.6,0.38,96
+Textbook 0306,BOO-0306,Books,28.7,27.2,3.1,1.64,42
+Shoes 0307,CLO-0307,Clothing,29.8,22.1,10.4,0.94,235
+Laptop 0308,ELE-0308,Electronics,39.5,22.7,2.3,2.69,212
+Socks 0309,CLO-0309,Clothing,18.7,12.8,3.3,0.08,112
+Hardcover Book 0310,BOO-0310,Books,21.1,18.5,2.4,1.36,421
+Paperback Book 0311,BOO-0311,Books,20.0,16.2,2.0,0.38,50
+Magazine 0312,BOO-0312,Books,27.4,26.1,1.1,0.34,99
+T-Shirt 0313,CLO-0313,Clothing,28.6,25.6,3.7,0.17,58
+Jeans 0314,CLO-0314,Clothing,31.2,32.2,3.6,0.59,86
+Board Game 0315,TOY-0315,Toys,35.0,37.4,8.6,1.37,85
+Stuffed Animal 0316,TOY-0316,Toys,29.3,15.7,16.0,0.68,214
+Monitor 0317,ELE-0317,Electronics,58.6,31.0,6.8,3.14,49
+Shoes 0318,CLO-0318,Clothing,29.2,21.5,10.4,0.56,411
+Glass Vase 0319,FRA-0319,Fragile,19.1,19.9,27.1,0.87,169
+Headphones 0320,ELE-0320,Electronics,23.4,18.7,8.1,0.44,50
+Glass Vase 0321,FRA-0321,Fragile,18.6,24.5,29.8,1.36,47
+Magazine 0322,BOO-0322,Books,29.7,21.2,0.6,0.37,457
+Keyboard 0323,ELE-0323,Electronics,45.5,12.6,2.9,1.01,81
+Magazine 0324,BOO-0324,Books,26.3,28.0,1.1,0.3,202
+Jacket 0325,CLO-0325,Clothing,54.0,36.2,10.0,0.9,95
+Monitor 0326,ELE-0326,Electronics,50.6,48.0,9.3,7.51,958
+Glass Vase 0327,FRA-0327,Fragile,17.2,22.8,20.8,0.96,99
+Picture Frame 0328,FRA-0328,Fragile,28.3,17.7,3.8,1.35,434
+Monitor 0329,ELE-0329,Electronics,63.9,49.3,7.7,6.71,47
+Phone Case 0330,ELE-0330,Electronics,19.4,9.1,1.8,0.07,95
+Board Game 0331,TOY-0331,Toys,36.2,37.8,5.6,0.82,112
+Phone Case 0332,ELE-0332,Electronics,18.9,10.8,1.1,0.09,190
+Board Game 0333,TOY-0333,Toys,29.1,29.9,9.5,1.35,208
+Action Figure 0334,TOY-0334,Toys,15.7,10.5,7.6,0.17,184
+Board Game 0335,TOY-0335,Toys,25.7,30.7,6.3,0.63,202
+Monitor 0336,ELE-0336,Electronics,57.0,35.1,9.1,6.29,119
+USB Cable 0337,ELE-0337,Electronics,23.6,12.7,3.6,0.14,59
+Webcam 0338,ELE-0338,Electronics,10.3,6.4,5.4,0.47,45
+Socks 0339,CLO-0339,Clothing,23.3,14.4,2.3,0.07,44
+Jeans 0340,CLO-0340,Clothing,38.6,25.4,3.5,0.71,452
+Headphones 0341,ELE-0341,Electronics,22.3,17.9,6.6,0.34,113
+Jeans 0342,CLO-0342,Clothing,33.6,31.1,4.2,0.72,114
+Magazine 0343,BOO-0343,Books,29.2,22.5,0.9,0.4,42
+Jacket 0344,CLO-0344,Clothing,41.1,38.5,7.9,0.97,106
+Magazine 0345,BOO-0345,Books,25.5,24.5,1.4,0.27,105
+Shoes 0346,CLO-0346,Clothing,34.4,22.5,13.1,0.93,459
+Ceramic Mug 0347,FRA-0347,Fragile,10.6,11.0,13.2,0.43,493
+Board Game 0348,TOY-0348,Toys,36.6,37.1,8.5,1.46,98
+Hardcover Book 0349,BOO-0349,Books,23.1,21.0,4.5,1.48,42
+Magazine 0350,BOO-0350,Books,25.2,22.6,1.3,0.37,192
+Phone Case 0351,ELE-0351,Electronics,15.4,9.5,1.1,0.06,50
+Glass Vase 0352,FRA-0352,Fragile,17.4,16.7,30.1,1.27,205
+Jacket 0353,CLO-0353,Clothing,51.4,44.0,5.6,0.79,176
+Jacket 0354,CLO-0354,Clothing,41.7,49.0,7.5,0.93,176
+Laptop 0355,ELE-0355,Electronics,30.6,22.7,4.0,2.72,95
+Action Figure 0356,TOY-0356,Toys,19.1,10.8,6.6,0.33,116
+Textbook 0357,BOO-0357,Books,34.2,21.1,4.4,1.87,110
+Shoes 0358,CLO-0358,Clothing,35.0,18.0,14.9,0.96,48
+Keyboard 0359,ELE-0359,Electronics,40.1,16.6,2.1,0.95,89
+Jeans 0360,CLO-0360,Clothing,34.7,28.7,5.3,0.5,51
+Ceramic Mug 0361,FRA-0361,Fragile,12.9,12.2,12.4,0.43,97
+Paperback Book 0362,BOO-0362,Books,18.7,13.2,2.3,0.52,450
+Keyboard 0363,ELE-0363,Electronics,47.5,12.1,2.3,0.93,83
+Laptop 0364,ELE-0364,Electronics,38.5,21.5,2.0,1.85,108
+SSD Drive 0365,ELE-0365,Electronics,13.0,9.3,1.5,0.13,60
+Board Game 0366,TOY-0366,Toys,34.1,38.1,9.9,1.17,94
+Laptop 0367,ELE-0367,Electronics,39.7,23.9,2.0,1.92,48
+Jeans 0368,CLO-0368,Clothing,36.4,28.8,5.5,0.56,43
+Mouse 0369,ELE-0369,Electronics,13.9,7.2,3.2,0.29,49
+Jeans 0370,CLO-0370,Clothing,38.5,28.1,5.8,0.58,180
+T-Shirt 0371,CLO-0371,Clothing,31.5,20.1,4.9,0.15,94
+Monitor 0372,ELE-0372,Electronics,63.4,46.0,6.7,4.8,59
+Stuffed Animal 0373,TOY-0373,Toys,29.1,27.1,26.6,0.45,87
+Keyboard 0374,ELE-0374,Electronics,48.0,12.5,2.4,0.88,46
+Webcam 0375,ELE-0375,Electronics,11.4,5.9,6.1,0.24,172
+Socks 0376,CLO-0376,Clothing,16.5,13.3,3.1,0.13,91
+T-Shirt 0377,CLO-0377,Clothing,31.5,25.0,2.9,0.17,87
+Mouse 0378,ELE-0378,Electronics,12.6,7.6,3.2,0.29,203
+Puzzle 0379,TOY-0379,Toys,39.5,22.3,4.0,0.76,211
+Jeans 0380,CLO-0380,Clothing,34.8,33.4,3.1,0.52,104
+Magazine 0381,BOO-0381,Books,31.0,24.8,1.1,0.38,99
+Monitor 0382,ELE-0382,Electronics,65.0,47.5,6.0,5.68,55
+Mouse 0383,ELE-0383,Electronics,13.3,9.4,4.7,0.25,441
+Magazine 0384,BOO-0384,Books,33.5,26.8,1.3,0.33,87
+Board Game 0385,TOY-0385,Toys,26.4,35.6,6.3,1.39,113
+SSD Drive 0386,ELE-0386,Electronics,12.1,8.2,1.0,0.12,42
+Glass Vase 0387,FRA-0387,Fragile,24.5,24.9,27.6,0.97,109
+Jeans 0388,CLO-0388,Clothing,37.4,32.6,5.7,0.51,85
+Puzzle 0389,TOY-0389,Toys,36.5,26.9,4.3,0.7,120
+Ceramic Mug 0390,FRA-0390,Fragile,12.8,10.1,14.6,0.5,115
+Board Game 0391,TOY-0391,Toys,39.2,37.4,8.7,0.97,46
+Stuffed Animal 0392,TOY-0392,Toys,36.1,24.4,29.3,0.24,217
+USB Cable 0393,ELE-0393,Electronics,18.5,14.6,3.9,0.21,945
+Webcam 0394,ELE-0394,Electronics,11.3,5.0,7.6,0.24,226
+Textbook 0395,BOO-0395,Books,26.8,22.9,5.3,1.02,45
+T-Shirt 0396,CLO-0396,Clothing,27.6,26.2,3.5,0.28,57
+Mouse 0397,ELE-0397,Electronics,13.9,7.0,3.4,0.15,118
+Magazine 0398,BOO-0398,Books,34.1,20.3,1.3,0.45,45
+Hardcover Book 0399,BOO-0399,Books,24.9,24.9,4.7,0.97,1113
+T-Shirt 0400,CLO-0400,Clothing,30.6,21.7,5.0,0.26,168
+Puzzle 0401,TOY-0401,Toys,39.9,28.4,5.1,0.46,100
+Headphones 0402,ELE-0402,Electronics,20.9,17.5,6.4,0.3,112
+Monitor 0403,ELE-0403,Electronics,52.1,47.0,6.2,7.2,44
+Monitor 0404,ELE-0404,Electronics,51.5,33.4,8.4,4.95,98
+Board Game 0405,TOY-0405,Toys,33.6,35.0,5.7,1.19,87
+Keyboard 0406,ELE-0406,Electronics,45.1,13.0,2.0,0.97,47
+Glass Vase 0407,FRA-0407,Fragile,16.1,23.8,32.6,0.5,47
+Stuffed Animal 0408,TOY-0408,Toys,37.1,29.0,23.2,0.27,81
+USB Cable 0409,ELE-0409,Electronics,24.7,13.0,3.6,0.21,46
+Magazine 0410,BOO-0410,Books,27.9,21.0,1.3,0.47,54
+Puzzle 0411,TOY-0411,Toys,41.2,34.6,6.0,1.0,164
+Keyboard 0412,ELE-0412,Electronics,49.9,14.8,3.9,0.53,109
+Laptop 0413,ELE-0413,Electronics,34.8,29.1,3.3,1.82,41
+Board Game 0414,TOY-0414,Toys,26.7,25.9,5.5,1.05,98
+Jacket 0415,CLO-0415,Clothing,54.5,48.4,9.0,1.14,112
+Puzzle 0416,TOY-0416,Toys,38.9,29.7,4.4,0.91,99
+Puzzle 0417,TOY-0417,Toys,36.1,22.4,3.4,0.9,52
+USB Cable 0418,ELE-0418,Electronics,21.6,10.9,3.7,0.22,119
+Stuffed Animal 0419,TOY-0419,Toys,24.6,18.6,26.2,0.78,1108
+SSD Drive 0420,ELE-0420,Electronics,13.5,8.6,1.2,0.13,40
+Phone Case 0421,ELE-0421,Electronics,17.4,9.4,1.6,0.08,84
+Jeans 0422,CLO-0422,Clothing,32.6,28.2,3.3,0.63,114
+Action Figure 0423,TOY-0423,Toys,21.4,15.1,5.2,0.39,207
+Paperback Book 0424,BOO-0424,Books,20.2,12.1,2.7,0.37,204
+Webcam 0425,ELE-0425,Electronics,9.9,7.4,7.2,0.34,51
+Hardcover Book 0426,BOO-0426,Books,25.0,18.7,3.0,0.55,95
+Ceramic Mug 0427,FRA-0427,Fragile,14.9,10.2,14.8,0.41,55
+Hardcover Book 0428,BOO-0428,Books,27.1,15.2,5.0,1.09,186
+Jeans 0429,CLO-0429,Clothing,36.0,27.5,3.1,0.7,196
+Mouse 0430,ELE-0430,Electronics,11.4,8.8,4.8,0.29,218
+Laptop 0431,ELE-0431,Electronics,39.3,20.7,3.2,2.83,161
+Hardcover Book 0432,BOO-0432,Books,21.1,17.0,4.8,0.86,103
+Stuffed Animal 0433,TOY-0433,Toys,35.9,24.2,27.2,0.33,85
+Paperback Book 0434,BOO-0434,Books,24.2,17.6,2.2,0.42,191
+Textbook 0435,BOO-0435,Books,25.6,22.0,4.9,2.49,120
+Keyboard 0436,ELE-0436,Electronics,41.0,13.6,3.8,0.9,54
+Paperback Book 0437,BOO-0437,Books,19.4,13.4,2.4,0.43,94
+Hardcover Book 0438,BOO-0438,Books,22.4,18.5,2.6,1.39,85
+Action Figure 0439,TOY-0439,Toys,16.7,11.9,6.3,0.39,92
+Keyboard 0440,ELE-0440,Electronics,41.9,14.8,2.7,0.63,42
+Picture Frame 0441,FRA-0441,Fragile,26.3,16.0,3.2,0.72,89
+Board Game 0442,TOY-0442,Toys,37.7,32.7,6.1,1.17,211
+Board Game 0443,TOY-0443,Toys,29.5,31.6,5.1,0.89,107
+Paperback Book 0444,BOO-0444,Books,22.9,15.6,1.6,0.36,53
+Puzzle 0445,TOY-0445,Toys,32.6,22.2,5.7,0.76,111
+Shoes 0446,CLO-0446,Clothing,26.3,23.7,10.4,0.65,117
+Board Game 0447,TOY-0447,Toys,27.2,31.3,9.9,0.8,54
+SSD Drive 0448,ELE-0448,Electronics,14.3,7.8,1.3,0.18,90
+Picture Frame 0449,FRA-0449,Fragile,24.2,23.0,3.4,0.94,45
+Stuffed Animal 0450,TOY-0450,Toys,36.2,16.6,16.2,0.51,90
+Glass Vase 0451,FRA-0451,Fragile,17.9,22.9,29.6,0.57,95
+Shoes 0452,CLO-0452,Clothing,26.4,17.7,13.0,0.96,44
+Stuffed Animal 0453,TOY-0453,Toys,38.7,17.1,16.2,0.27,213
+Monitor 0454,ELE-0454,Electronics,57.8,35.2,9.0,5.25,418
+Puzzle 0455,TOY-0455,Toys,39.0,22.3,4.9,0.43,102
+Jacket 0456,CLO-0456,Clothing,54.3,38.6,10.0,0.8,55
+Socks 0457,CLO-0457,Clothing,15.4,14.2,3.6,0.14,40
+Textbook 0458,BOO-0458,Books,27.4,22.6,4.8,1.73,232
+Puzzle 0459,TOY-0459,Toys,41.7,23.7,3.6,0.46,173
+Monitor 0460,ELE-0460,Electronics,67.5,40.5,6.5,4.75,1143
+Board Game 0461,TOY-0461,Toys,27.8,36.4,8.5,0.93,44
+Phone Case 0462,ELE-0462,Electronics,17.3,8.5,1.6,0.06,43
+Mouse 0463,ELE-0463,Electronics,14.9,7.6,3.7,0.23,93
+Phone Case 0464,ELE-0464,Electronics,18.0,9.9,1.9,0.14,95
+Headphones 0465,ELE-0465,Electronics,20.3,18.8,6.2,0.28,56
+Jacket 0466,CLO-0466,Clothing,44.4,46.5,8.1,0.62,429
+Webcam 0467,ELE-0467,Electronics,8.7,6.5,6.3,0.25,94
+Laptop 0468,ELE-0468,Electronics,31.9,27.1,2.6,2.65,84
+Jacket 0469,CLO-0469,Clothing,52.1,40.3,9.4,0.91,167
+Webcam 0470,ELE-0470,Electronics,11.8,7.0,7.5,0.31,54
+Puzzle 0471,TOY-0471,Toys,44.2,33.6,3.1,0.66,90
+Ceramic Mug 0472,FRA-0472,Fragile,14.2,13.9,14.6,0.42,85
+Mouse 0473,ELE-0473,Electronics,10.8,9.9,3.6,0.23,198
+Puzzle 0474,TOY-0474,Toys,33.2,26.9,3.2,0.92,188
+Paperback Book 0475,BOO-0475,Books,22.2,12.8,2.6,0.22,44
+Shoes 0476,CLO-0476,Clothing,32.3,16.0,12.7,0.73,43
+Puzzle 0477,TOY-0477,Toys,42.4,29.6,4.0,0.76,59
+Keyboard 0478,ELE-0478,Electronics,45.1,12.1,2.3,0.54,222
+Webcam 0479,ELE-0479,Electronics,9.8,6.1,5.5,0.22,49
+Magazine 0480,BOO-0480,Books,28.2,21.1,1.0,0.3,101
+Mouse 0481,ELE-0481,Electronics,14.7,9.0,3.1,0.14,119
+Textbook 0482,BOO-0482,Books,25.5,23.2,5.7,1.36,42
+Picture Frame 0483,FRA-0483,Fragile,22.2,28.5,4.2,1.05,235
+Laptop 0484,ELE-0484,Electronics,33.4,21.9,2.9,2.7,118
+Shoes 0485,CLO-0485,Clothing,28.4,17.7,13.7,0.91,119
+Paperback Book 0486,BOO-0486,Books,18.8,13.7,2.5,0.44,113
+Power Bank 0487,ELE-0487,Electronics,13.1,6.4,2.5,0.39,112
+Puzzle 0488,TOY-0488,Toys,38.7,30.1,3.3,0.48,41
+Webcam 0489,ELE-0489,Electronics,11.0,5.5,7.9,0.35,507
+Magazine 0490,BOO-0490,Books,29.9,21.8,1.0,0.24,402
+Socks 0491,CLO-0491,Clothing,20.9,11.8,2.7,0.12,49
+Board Game 0492,TOY-0492,Toys,37.0,25.2,7.5,1.26,555
+USB Cable 0493,ELE-0493,Electronics,23.5,10.2,2.7,0.23,112
+Hardcover Book 0494,BOO-0494,Books,26.0,16.9,2.5,0.7,94
+Picture Frame 0495,FRA-0495,Fragile,33.1,27.7,3.3,0.52,47
+Glass Vase 0496,FRA-0496,Fragile,24.8,17.1,29.4,0.59,83
+Headphones 0497,ELE-0497,Electronics,23.5,16.6,9.1,0.43,81
+Monitor 0498,ELE-0498,Electronics,53.3,45.1,8.7,6.82,175
+Jeans 0499,CLO-0499,Clothing,35.9,30.7,5.4,0.59,85
+Laptop 0500,ELE-0500,Electronics,36.3,24.6,2.4,2.89,166
+Board Game 0501,TOY-0501,Toys,32.1,33.6,9.7,1.45,48
+Textbook 0502,BOO-0502,Books,26.7,20.7,5.3,1.56,109
+Power Bank 0503,ELE-0503,Electronics,14.1,9.3,3.2,0.58,112
+Keyboard 0504,ELE-0504,Electronics,44.2,15.6,2.5,0.61,90
+Puzzle 0505,TOY-0505,Toys,38.2,30.2,5.3,0.96,110
+Glass Vase 0506,FRA-0506,Fragile,21.6,16.6,27.1,0.62,116
+Headphones 0507,ELE-0507,Electronics,23.7,15.7,9.4,0.39,45
+Picture Frame 0508,FRA-0508,Fragile,34.7,28.4,4.5,1.06,201
+Jeans 0509,CLO-0509,Clothing,36.4,25.1,5.0,0.74,42
+Jacket 0510,CLO-0510,Clothing,42.4,36.8,6.4,0.68,220
+Textbook 0511,BOO-0511,Books,34.9,22.0,3.5,2.25,52
+Ceramic Mug 0512,FRA-0512,Fragile,11.3,10.3,10.9,0.5,113
+Monitor 0513,ELE-0513,Electronics,55.3,35.8,7.5,5.09,98
+USB Cable 0514,ELE-0514,Electronics,15.7,10.6,3.8,0.16,209
+Phone Case 0515,ELE-0515,Electronics,16.9,8.8,2.0,0.12,222
+Headphones 0516,ELE-0516,Electronics,19.6,19.3,9.7,0.29,117
+Jeans 0517,CLO-0517,Clothing,36.7,33.3,3.7,0.65,85
+T-Shirt 0518,CLO-0518,Clothing,28.4,23.7,3.9,0.17,182
+USB Cable 0519,ELE-0519,Electronics,19.2,11.6,3.9,0.2,81
+USB Cable 0520,ELE-0520,Electronics,22.2,14.5,3.4,0.22,91
+T-Shirt 0521,CLO-0521,Clothing,26.1,24.8,3.4,0.15,451
+Webcam 0522,ELE-0522,Electronics,11.5,5.3,8.0,0.33,118
+Webcam 0523,ELE-0523,Electronics,10.7,6.5,5.7,0.21,110
+Glass Vase 0524,FRA-0524,Fragile,19.9,17.2,28.4,0.82,108
+Shoes 0525,CLO-0525,Clothing,32.8,15.3,11.8,0.61,43
+Textbook 0526,BOO-0526,Books,26.8,24.3,4.9,2.1,202
+Jacket 0527,CLO-0527,Clothing,48.3,40.0,8.1,0.8,102
+Picture Frame 0528,FRA-0528,Fragile,26.5,22.7,3.4,1.43,51
+Stuffed Animal 0529,TOY-0529,Toys,30.4,25.4,22.5,0.59,229
+Jacket 0530,CLO-0530,Clothing,49.7,48.8,6.5,0.96,116
+SSD Drive 0531,ELE-0531,Electronics,13.5,9.8,2.1,0.18,43
+Puzzle 0532,TOY-0532,Toys,42.7,31.0,3.1,0.76,99
+Jeans 0533,CLO-0533,Clothing,39.6,27.3,4.4,0.66,57
+Jacket 0534,CLO-0534,Clothing,47.3,42.6,9.8,0.81,811
+Picture Frame 0535,FRA-0535,Fragile,36.2,18.9,4.2,0.59,183
+Mouse 0536,ELE-0536,Electronics,14.8,7.5,4.2,0.13,87
+Stuffed Animal 0537,TOY-0537,Toys,33.7,19.5,26.4,0.77,120
+Puzzle 0538,TOY-0538,Toys,37.1,22.3,5.7,0.47,86
+Hardcover Book 0539,BOO-0539,Books,24.3,16.2,2.6,1.47,569
+Laptop 0540,ELE-0540,Electronics,36.1,21.0,3.3,2.07,45
+Stuffed Animal 0541,TOY-0541,Toys,26.1,24.2,25.8,0.32,210
+Jacket 0542,CLO-0542,Clothing,50.9,48.7,6.6,0.88,53
+Ceramic Mug 0543,FRA-0543,Fragile,12.8,14.5,10.7,0.38,56
+Jeans 0544,CLO-0544,Clothing,32.0,25.9,4.7,0.51,81
+Ceramic Mug 0545,FRA-0545,Fragile,14.9,12.9,14.9,0.31,49
+Mouse 0546,ELE-0546,Electronics,11.2,8.2,3.9,0.23,48
+T-Shirt 0547,CLO-0547,Clothing,32.4,21.9,3.9,0.23,57
+Webcam 0548,ELE-0548,Electronics,11.8,6.2,5.1,0.5,446
+Shoes 0549,CLO-0549,Clothing,27.3,22.5,10.2,0.85,111
+SSD Drive 0550,ELE-0550,Electronics,10.8,8.0,2.0,0.14,80
+Monitor 0551,ELE-0551,Electronics,60.5,47.7,8.7,6.14,49
+Hardcover Book 0552,BOO-0552,Books,24.9,18.3,2.1,1.41,100
+Jacket 0553,CLO-0553,Clothing,54.2,43.4,8.6,1.04,179
+Textbook 0554,BOO-0554,Books,25.1,26.9,6.0,1.84,83
+Hardcover Book 0555,BOO-0555,Books,20.3,22.9,3.3,1.22,87
+Glass Vase 0556,FRA-0556,Fragile,17.3,18.9,21.3,1.28,45
+Board Game 0557,TOY-0557,Toys,31.5,26.8,6.3,0.57,438
+T-Shirt 0558,CLO-0558,Clothing,31.9,23.2,3.7,0.17,80
+Socks 0559,CLO-0559,Clothing,15.9,13.4,2.2,0.08,90
+Keyboard 0560,ELE-0560,Electronics,46.0,12.8,2.2,1.2,92
+Hardcover Book 0561,BOO-0561,Books,24.5,17.7,3.7,1.47,187
+Jacket 0562,CLO-0562,Clothing,45.7,47.9,6.8,1.12,427
+Power Bank 0563,ELE-0563,Electronics,17.9,9.6,2.0,0.33,49
+Board Game 0564,TOY-0564,Toys,28.6,38.0,9.5,0.91,85
+Board Game 0565,TOY-0565,Toys,36.5,25.0,5.8,0.83,192
+Jeans 0566,CLO-0566,Clothing,32.3,27.1,3.0,0.51,53
+Paperback Book 0567,BOO-0567,Books,22.9,12.9,2.7,0.28,53
+SSD Drive 0568,ELE-0568,Electronics,11.1,8.4,2.3,0.16,48
+T-Shirt 0569,CLO-0569,Clothing,27.0,22.6,2.3,0.22,96
+Mouse 0570,ELE-0570,Electronics,10.7,8.5,3.0,0.12,86
+Paperback Book 0571,BOO-0571,Books,24.8,16.5,2.0,0.25,93
+Hardcover Book 0572,BOO-0572,Books,23.8,16.7,4.1,0.65,218
+Jeans 0573,CLO-0573,Clothing,30.7,28.0,4.0,0.73,81
+USB Cable 0574,ELE-0574,Electronics,18.2,11.8,2.1,0.12,231
+Jacket 0575,CLO-0575,Clothing,45.3,43.5,7.9,0.86,99
+Monitor 0576,ELE-0576,Electronics,59.7,31.1,5.6,3.2,41
+Magazine 0577,BOO-0577,Books,32.2,27.3,1.0,0.35,46
+T-Shirt 0578,CLO-0578,Clothing,32.2,22.1,2.7,0.3,110
+Headphones 0579,ELE-0579,Electronics,23.4,18.0,7.6,0.39,49
+Glass Vase 0580,FRA-0580,Fragile,23.3,24.4,24.3,0.88,227
+Mouse 0581,ELE-0581,Electronics,14.3,9.6,3.1,0.22,43
+Puzzle 0582,TOY-0582,Toys,40.9,25.2,5.7,0.51,1140
+Magazine 0583,BOO-0583,Books,28.9,26.9,0.7,0.4,221
+Socks 0584,CLO-0584,Clothing,20.6,13.3,2.8,0.07,54
+Monitor 0585,ELE-0585,Electronics,65.7,33.8,9.8,7.91,106
+T-Shirt 0586,CLO-0586,Clothing,28.8,23.0,4.7,0.2,536
+Stuffed Animal 0587,TOY-0587,Toys,33.4,26.8,18.9,0.62,48
+Webcam 0588,ELE-0588,Electronics,9.0,7.9,5.6,0.39,174
+Power Bank 0589,ELE-0589,Electronics,15.5,8.2,2.7,0.53,811
+Puzzle 0590,TOY-0590,Toys,40.3,29.0,3.0,0.44,52
+Magazine 0591,BOO-0591,Books,29.3,22.4,0.8,0.44,179
+USB Cable 0592,ELE-0592,Electronics,21.2,11.9,2.5,0.28,42
+T-Shirt 0593,CLO-0593,Clothing,33.7,25.4,2.5,0.23,222
+Jacket 0594,CLO-0594,Clothing,43.6,48.9,6.9,1.02,206
+Stuffed Animal 0595,TOY-0595,Toys,27.6,20.8,15.6,0.69,40
+Magazine 0596,BOO-0596,Books,27.0,23.5,1.2,0.38,110
+Jacket 0597,CLO-0597,Clothing,44.1,37.3,9.9,0.96,119
+Ceramic Mug 0598,FRA-0598,Fragile,13.2,13.0,10.7,0.49,46
+Puzzle 0599,TOY-0599,Toys,44.8,23.2,3.0,0.85,575
+Jeans 0600,CLO-0600,Clothing,31.6,33.9,3.5,0.61,107
+Textbook 0601,BOO-0601,Books,30.7,28.0,4.2,2.47,99
+SSD Drive 0602,ELE-0602,Electronics,13.8,8.8,1.6,0.12,91
+Shoes 0603,CLO-0603,Clothing,26.1,19.5,10.9,0.99,89
+Action Figure 0604,TOY-0604,Toys,24.0,14.8,5.6,0.35,163
+Action Figure 0605,TOY-0605,Toys,20.2,15.0,6.9,0.36,52
+Webcam 0606,ELE-0606,Electronics,11.5,6.8,6.6,0.42,207
+Jacket 0607,CLO-0607,Clothing,48.3,49.5,9.9,0.82,88
+T-Shirt 0608,CLO-0608,Clothing,31.5,24.2,2.8,0.25,81
+Socks 0609,CLO-0609,Clothing,19.6,10.6,2.6,0.09,199
+Hardcover Book 0610,BOO-0610,Books,20.6,17.1,3.9,1.03,236
+Keyboard 0611,ELE-0611,Electronics,40.9,16.9,3.4,0.83,97
+Glass Vase 0612,FRA-0612,Fragile,18.6,21.5,32.5,1.4,83
+Mouse 0613,ELE-0613,Electronics,12.5,7.7,3.7,0.26,835
+Puzzle 0614,TOY-0614,Toys,37.6,30.1,4.8,0.76,50
+Webcam 0615,ELE-0615,Electronics,11.8,6.6,5.8,0.44,88
+Stuffed Animal 0616,TOY-0616,Toys,32.3,22.1,19.6,0.55,96
+Laptop 0617,ELE-0617,Electronics,30.2,25.8,2.6,2.91,46
+Picture Frame 0618,FRA-0618,Fragile,31.2,19.9,4.2,1.15,94
+Headphones 0619,ELE-0619,Electronics,18.2,16.6,9.7,0.47,240
+Keyboard 0620,ELE-0620,Electronics,48.3,12.2,2.8,0.52,89
+Magazine 0621,BOO-0621,Books,25.1,26.5,1.1,0.22,48
+Paperback Book 0622,BOO-0622,Books,19.2,12.7,2.4,0.45,86
+Headphones 0623,ELE-0623,Electronics,21.4,16.1,9.9,0.26,223
+Magazine 0624,BOO-0624,Books,31.3,25.0,1.3,0.34,59
+Jacket 0625,CLO-0625,Clothing,53.2,45.5,5.6,0.62,100
+Power Bank 0626,ELE-0626,Electronics,13.6,6.3,2.4,0.38,84
+Paperback Book 0627,BOO-0627,Books,20.5,16.4,2.9,0.46,88
+Jacket 0628,CLO-0628,Clothing,45.7,40.5,7.1,1.19,192
+Textbook 0629,BOO-0629,Books,33.2,26.8,3.5,1.21,55
+Board Game 0630,TOY-0630,Toys,28.8,39.6,6.5,0.97,571
+USB Cable 0631,ELE-0631,Electronics,20.5,14.3,3.0,0.15,83
+Keyboard 0632,ELE-0632,Electronics,43.9,16.1,3.8,1.09,185
+Headphones 0633,ELE-0633,Electronics,19.9,19.9,9.1,0.34,105
+Board Game 0634,TOY-0634,Toys,26.0,33.0,9.2,1.08,111
+Power Bank 0635,ELE-0635,Electronics,17.8,8.3,3.9,0.57,56
+Keyboard 0636,ELE-0636,Electronics,40.6,12.9,3.9,1.12,175
+Jeans 0637,CLO-0637,Clothing,30.4,30.2,5.0,0.78,240
+Mouse 0638,ELE-0638,Electronics,11.9,9.4,4.7,0.27,111
+Puzzle 0639,TOY-0639,Toys,43.0,20.7,5.2,0.83,60
+SSD Drive 0640,ELE-0640,Electronics,13.2,7.5,2.5,0.18,184
+Monitor 0641,ELE-0641,Electronics,64.0,43.1,8.1,3.75,109
+Ceramic Mug 0642,FRA-0642,Fragile,10.3,12.3,14.6,0.46,180
+Shoes 0643,CLO-0643,Clothing,28.6,16.2,11.1,0.56,55
+Monitor 0644,ELE-0644,Electronics,51.1,49.8,7.9,7.43,41
+Laptop 0645,ELE-0645,Electronics,30.3,26.1,4.8,1.59,84
+Laptop 0646,ELE-0646,Electronics,32.2,24.4,4.3,1.85,98
+Webcam 0647,ELE-0647,Electronics,11.7,7.4,5.4,0.23,56
+Action Figure 0648,TOY-0648,Toys,23.2,15.4,6.6,0.17,166
+Power Bank 0649,ELE-0649,Electronics,13.2,9.5,2.2,0.52,92
+Magazine 0650,BOO-0650,Books,27.6,23.2,1.1,0.22,105
+Board Game 0651,TOY-0651,Toys,30.5,25.6,7.4,0.85,110
+Headphones 0652,ELE-0652,Electronics,21.4,16.8,8.7,0.47,116
+USB Cable 0653,ELE-0653,Electronics,24.2,12.8,4.0,0.24,52
+Webcam 0654,ELE-0654,Electronics,9.4,6.1,7.3,0.33,114
+Keyboard 0655,ELE-0655,Electronics,47.7,17.2,2.3,0.51,45
+Mouse 0656,ELE-0656,Electronics,12.5,6.1,4.7,0.29,58
+Board Game 0657,TOY-0657,Toys,29.4,34.0,7.8,0.81,51
+Stuffed Animal 0658,TOY-0658,Toys,29.6,27.1,28.8,0.55,225
+Mouse 0659,ELE-0659,Electronics,13.4,6.6,4.8,0.17,91
+Webcam 0660,ELE-0660,Electronics,10.4,7.5,5.6,0.3,960
+Picture Frame 0661,FRA-0661,Fragile,37.4,20.4,2.1,1.1,80
+Monitor 0662,ELE-0662,Electronics,50.3,47.2,6.1,7.3,98
+Jacket 0663,CLO-0663,Clothing,43.9,46.3,6.2,1.03,45
+Stuffed Animal 0664,TOY-0664,Toys,21.5,19.9,22.1,0.56,176
+Hardcover Book 0665,BOO-0665,Books,22.0,15.2,2.1,1.33,51
+Shoes 0666,CLO-0666,Clothing,31.5,22.3,14.0,0.6,211
+Laptop 0667,ELE-0667,Electronics,40.0,21.0,3.0,1.63,181
+Puzzle 0668,TOY-0668,Toys,39.3,27.0,4.8,0.58,51
+Webcam 0669,ELE-0669,Electronics,9.5,5.4,7.8,0.35,56
+Jacket 0670,CLO-0670,Clothing,40.5,44.8,9.1,0.75,113
+Hardcover Book 0671,BOO-0671,Books,27.4,19.4,3.7,1.09,111
+Hardcover Book 0672,BOO-0672,Books,26.0,17.6,4.5,0.75,166
+Laptop 0673,ELE-0673,Electronics,38.6,21.6,3.8,2.26,86
+Mouse 0674,ELE-0674,Electronics,15.0,8.8,4.8,0.2,111
+Hardcover Book 0675,BOO-0675,Books,28.2,23.8,4.3,1.42,119
+Monitor 0676,ELE-0676,Electronics,61.7,37.6,8.8,4.98,199
+Textbook 0677,BOO-0677,Books,29.3,27.9,5.4,1.2,48
+Puzzle 0678,TOY-0678,Toys,40.3,33.0,5.1,0.58,82
+Keyboard 0679,ELE-0679,Electronics,44.2,13.1,2.1,1.0,108
+Puzzle 0680,TOY-0680,Toys,32.1,22.0,5.1,0.5,106
+T-Shirt 0681,CLO-0681,Clothing,27.9,20.4,2.9,0.21,48
+Hardcover Book 0682,BOO-0682,Books,26.7,16.5,3.7,1.06,55
+Power Bank 0683,ELE-0683,Electronics,13.3,7.3,2.7,0.35,112
+Headphones 0684,ELE-0684,Electronics,22.8,18.6,9.5,0.49,190
+USB Cable 0685,ELE-0685,Electronics,21.8,14.0,3.6,0.24,110
+Jeans 0686,CLO-0686,Clothing,36.1,34.1,5.6,0.64,40
+Jeans 0687,CLO-0687,Clothing,37.7,32.4,3.6,0.56,44
+Monitor 0688,ELE-0688,Electronics,60.1,43.6,6.5,5.96,109
+Hardcover Book 0689,BOO-0689,Books,23.1,16.2,3.2,1.04,49
+Jeans 0690,CLO-0690,Clothing,33.7,25.3,5.5,0.62,43
+Glass Vase 0691,FRA-0691,Fragile,16.9,24.4,32.3,1.22,117
+Jeans 0692,CLO-0692,Clothing,38.6,34.6,3.4,0.61,109
+Keyboard 0693,ELE-0693,Electronics,47.0,14.7,2.1,0.82,435
+Webcam 0694,ELE-0694,Electronics,8.5,7.4,7.9,0.37,90
+Webcam 0695,ELE-0695,Electronics,9.2,5.4,7.7,0.33,100
+USB Cable 0696,ELE-0696,Electronics,21.9,14.2,3.8,0.2,174
+Jacket 0697,CLO-0697,Clothing,44.6,44.3,6.1,0.61,91
+Board Game 0698,TOY-0698,Toys,34.3,34.3,7.7,0.7,56
+Phone Case 0699,ELE-0699,Electronics,16.7,11.6,1.5,0.13,204
+SSD Drive 0700,ELE-0700,Electronics,12.6,7.9,2.6,0.16,90
+Puzzle 0701,TOY-0701,Toys,32.2,26.3,3.6,0.84,113
+Socks 0702,CLO-0702,Clothing,24.3,12.9,2.1,0.1,113
+T-Shirt 0703,CLO-0703,Clothing,25.4,23.3,3.9,0.29,205
+Phone Case 0704,ELE-0704,Electronics,20.0,11.1,1.6,0.07,232
+Paperback Book 0705,BOO-0705,Books,24.0,15.5,1.8,0.56,111
+Hardcover Book 0706,BOO-0706,Books,24.9,19.2,2.8,0.8,89
+Puzzle 0707,TOY-0707,Toys,35.2,31.7,4.4,0.68,100
+Mouse 0708,ELE-0708,Electronics,14.9,9.1,3.1,0.11,81
+USB Cable 0709,ELE-0709,Electronics,23.0,12.4,2.1,0.14,52
+Textbook 0710,BOO-0710,Books,30.5,21.4,4.8,1.89,204
+SSD Drive 0711,ELE-0711,Electronics,14.3,9.2,1.0,0.16,104
+Monitor 0712,ELE-0712,Electronics,68.1,42.5,6.6,7.75,43
+SSD Drive 0713,ELE-0713,Electronics,10.3,7.5,1.2,0.2,185
+Board Game 0714,TOY-0714,Toys,36.8,27.9,8.0,0.93,87
+Board Game 0715,TOY-0715,Toys,36.3,27.2,7.0,1.36,93
+Textbook 0716,BOO-0716,Books,30.6,24.1,3.7,2.2,53
+Glass Vase 0717,FRA-0717,Fragile,19.6,16.3,24.0,1.32,115
+Magazine 0718,BOO-0718,Books,34.7,23.2,0.7,0.3,864
+SSD Drive 0719,ELE-0719,Electronics,14.0,8.3,2.4,0.12,530
+Hardcover Book 0720,BOO-0720,Books,21.3,16.9,4.2,0.7,112
+Jeans 0721,CLO-0721,Clothing,31.0,31.4,5.1,0.51,107
+Jeans 0722,CLO-0722,Clothing,34.9,34.9,3.5,0.59,88
+Paperback Book 0723,BOO-0723,Books,22.6,15.5,2.4,0.51,109
+Mouse 0724,ELE-0724,Electronics,12.4,8.8,3.8,0.12,109
+Action Figure 0725,TOY-0725,Toys,20.1,16.8,8.1,0.22,202
+Monitor 0726,ELE-0726,Electronics,67.9,47.9,8.2,5.77,43
+Monitor 0727,ELE-0727,Electronics,59.1,34.1,8.0,3.0,185
+Keyboard 0728,ELE-0728,Electronics,49.7,16.6,2.1,1.07,85
+Magazine 0729,BOO-0729,Books,29.8,26.7,1.0,0.31,48
+Socks 0730,CLO-0730,Clothing,15.6,14.8,3.5,0.14,412
+Action Figure 0731,TOY-0731,Toys,15.2,14.6,7.1,0.24,88
+Phone Case 0732,ELE-0732,Electronics,19.9,11.1,1.0,0.08,55
+USB Cable 0733,ELE-0733,Electronics,22.3,10.2,3.6,0.18,171
+Puzzle 0734,TOY-0734,Toys,34.2,27.4,3.1,0.95,44
+SSD Drive 0735,ELE-0735,Electronics,14.7,9.9,1.3,0.13,193
+Keyboard 0736,ELE-0736,Electronics,40.1,17.5,3.9,0.72,85
+Jacket 0737,CLO-0737,Clothing,53.8,40.7,5.6,1.15,55
+Mouse 0738,ELE-0738,Electronics,13.2,8.3,4.6,0.17,234
+Picture Frame 0739,FRA-0739,Fragile,37.7,18.0,3.8,1.0,111
+Shoes 0740,CLO-0740,Clothing,33.5,19.6,12.4,0.78,50
+T-Shirt 0741,CLO-0741,Clothing,32.1,26.0,4.0,0.19,117
+Glass Vase 0742,FRA-0742,Fragile,19.7,23.2,31.2,0.77,43
+SSD Drive 0743,ELE-0743,Electronics,10.8,7.9,1.4,0.13,100
+Keyboard 0744,ELE-0744,Electronics,40.9,14.3,3.1,0.63,101
+Phone Case 0745,ELE-0745,Electronics,17.8,8.9,1.1,0.08,426
+Glass Vase 0746,FRA-0746,Fragile,15.9,18.7,24.5,0.9,80
+Jeans 0747,CLO-0747,Clothing,39.2,26.0,3.1,0.79,88
+Puzzle 0748,TOY-0748,Toys,40.7,26.9,5.1,0.91,114
+Hardcover Book 0749,BOO-0749,Books,21.6,20.7,4.3,1.41,50
+Monitor 0750,ELE-0750,Electronics,65.6,33.6,8.5,5.48,115
+Monitor 0751,ELE-0751,Electronics,68.6,33.8,8.9,6.64,43
+Action Figure 0752,TOY-0752,Toys,23.3,15.6,5.2,0.2,43
+T-Shirt 0753,CLO-0753,Clothing,30.9,23.0,3.5,0.29,57
+Phone Case 0754,ELE-0754,Electronics,16.3,8.3,1.0,0.1,107
+Mouse 0755,ELE-0755,Electronics,12.8,6.7,4.5,0.11,99
+T-Shirt 0756,CLO-0756,Clothing,25.8,22.6,2.4,0.28,49
+Phone Case 0757,ELE-0757,Electronics,19.1,10.4,1.1,0.13,168
+Stuffed Animal 0758,TOY-0758,Toys,38.1,26.5,28.6,0.51,49
+Shoes 0759,CLO-0759,Clothing,34.1,19.7,14.4,0.62,109
+Phone Case 0760,ELE-0760,Electronics,19.4,10.9,1.0,0.12,103
+Stuffed Animal 0761,TOY-0761,Toys,29.8,28.8,28.0,0.65,175
+Stuffed Animal 0762,TOY-0762,Toys,36.3,27.1,21.8,0.72,229
+Stuffed Animal 0763,TOY-0763,Toys,20.3,19.6,17.5,0.48,105
+T-Shirt 0764,CLO-0764,Clothing,30.5,22.4,4.4,0.16,51
+USB Cable 0765,ELE-0765,Electronics,15.6,10.5,2.3,0.27,98
+Textbook 0766,BOO-0766,Books,29.7,27.6,5.7,1.17,119
+Jacket 0767,CLO-0767,Clothing,50.6,48.8,5.5,0.71,85
+Keyboard 0768,ELE-0768,Electronics,49.8,17.8,3.0,0.73,175
+Action Figure 0769,TOY-0769,Toys,18.1,15.9,8.9,0.26,523
+Picture Frame 0770,FRA-0770,Fragile,31.9,21.8,4.9,1.1,103
+Shoes 0771,CLO-0771,Clothing,26.6,22.3,12.1,0.72,976
+Headphones 0772,ELE-0772,Electronics,18.4,15.7,8.6,0.21,99
+Hardcover Book 0773,BOO-0773,Books,22.0,21.6,4.4,0.63,117
+Stuffed Animal 0774,TOY-0774,Toys,24.5,15.2,20.0,0.52,211
+Picture Frame 0775,FRA-0775,Fragile,38.5,28.5,3.7,1.42,214
+Phone Case 0776,ELE-0776,Electronics,19.2,10.9,1.3,0.14,170
+Picture Frame 0777,FRA-0777,Fragile,39.7,28.7,4.7,1.47,240
+Phone Case 0778,ELE-0778,Electronics,17.1,8.4,1.6,0.09,40
+Power Bank 0779,ELE-0779,Electronics,17.2,8.9,3.8,0.37,84
+Mouse 0780,ELE-0780,Electronics,14.6,8.2,5.0,0.11,224
+Action Figure 0781,TOY-0781,Toys,23.0,12.2,6.4,0.25,120
+Monitor 0782,ELE-0782,Electronics,68.0,44.8,7.3,5.3,87
+Glass Vase 0783,FRA-0783,Fragile,20.1,24.9,21.6,1.0,227
+Board Game 0784,TOY-0784,Toys,30.5,34.6,8.5,0.77,106
+Action Figure 0785,TOY-0785,Toys,19.6,11.7,6.6,0.28,188
+T-Shirt 0786,CLO-0786,Clothing,28.2,27.8,3.4,0.28,57
+Stuffed Animal 0787,TOY-0787,Toys,28.4,18.6,15.3,0.57,80
+Action Figure 0788,TOY-0788,Toys,16.2,16.9,6.7,0.23,81
+Headphones 0789,ELE-0789,Electronics,19.6,20.3,8.5,0.39,58
+Jeans 0790,CLO-0790,Clothing,32.2,29.3,3.8,0.73,409
+Magazine 0791,BOO-0791,Books,34.3,20.2,0.6,0.33,83
+Glass Vase 0792,FRA-0792,Fragile,15.4,21.4,22.3,1.32,40
+Keyboard 0793,ELE-0793,Electronics,40.1,17.7,2.7,1.13,104
+Action Figure 0794,TOY-0794,Toys,17.1,13.5,6.2,0.21,103
+Magazine 0795,BOO-0795,Books,34.2,22.4,0.7,0.24,117
+Socks 0796,CLO-0796,Clothing,23.4,11.5,2.9,0.09,58
+Webcam 0797,ELE-0797,Electronics,11.7,6.1,6.3,0.23,108
+Puzzle 0798,TOY-0798,Toys,35.7,33.5,5.7,0.63,45
+Magazine 0799,BOO-0799,Books,34.7,21.8,0.5,0.31,509
+Board Game 0800,TOY-0800,Toys,33.3,27.3,6.1,0.81,41
+Phone Case 0801,ELE-0801,Electronics,16.8,10.6,1.1,0.07,40
+Puzzle 0802,TOY-0802,Toys,36.9,22.5,4.9,0.69,87
+Laptop 0803,ELE-0803,Electronics,38.6,23.4,3.0,1.95,44
+Shoes 0804,CLO-0804,Clothing,29.2,16.2,11.8,0.54,85
+Shoes 0805,CLO-0805,Clothing,25.5,18.9,14.6,0.86,240
+Mouse 0806,ELE-0806,Electronics,13.0,8.4,3.7,0.27,83
+Power Bank 0807,ELE-0807,Electronics,15.4,6.1,3.9,0.38,56
+Board Game 0808,TOY-0808,Toys,39.5,29.7,6.1,1.23,187
+Mouse 0809,ELE-0809,Electronics,10.9,6.8,3.8,0.18,105
+Power Bank 0810,ELE-0810,Electronics,15.9,9.5,3.6,0.42,56
+Webcam 0811,ELE-0811,Electronics,8.4,5.3,5.1,0.48,97
+Shoes 0812,CLO-0812,Clothing,26.8,17.1,11.1,0.99,117
+T-Shirt 0813,CLO-0813,Clothing,30.8,26.6,3.6,0.28,41
+Textbook 0814,BOO-0814,Books,26.1,23.0,4.7,2.43,94
+Jacket 0815,CLO-0815,Clothing,49.5,44.1,8.6,0.78,108
+Jeans 0816,CLO-0816,Clothing,38.6,32.1,3.0,0.53,43
+Paperback Book 0817,BOO-0817,Books,19.8,17.0,2.6,0.34,82
+Shoes 0818,CLO-0818,Clothing,30.4,23.8,10.0,0.7,85
+Power Bank 0819,ELE-0819,Electronics,12.1,7.7,2.2,0.46,179
+Webcam 0820,ELE-0820,Electronics,9.8,5.9,6.9,0.21,94
+Socks 0821,CLO-0821,Clothing,20.6,12.0,2.8,0.06,54
+Picture Frame 0822,FRA-0822,Fragile,38.9,15.4,2.6,1.23,56
+USB Cable 0823,ELE-0823,Electronics,22.8,14.0,3.5,0.29,531
+Monitor 0824,ELE-0824,Electronics,50.4,46.5,6.3,3.63,44
+Jeans 0825,CLO-0825,Clothing,31.1,25.3,3.5,0.66,87
+Ceramic Mug 0826,FRA-0826,Fragile,11.4,12.7,14.4,0.34,96
+Socks 0827,CLO-0827,Clothing,19.7,12.3,3.1,0.1,51
+Magazine 0828,BOO-0828,Books,33.8,20.6,0.7,0.45,100
+Jacket 0829,CLO-0829,Clothing,53.0,44.0,7.5,0.7,109
+Textbook 0830,BOO-0830,Books,29.2,24.0,4.5,1.15,176
+Mouse 0831,ELE-0831,Electronics,11.6,9.1,3.2,0.11,1196
+Mouse 0832,ELE-0832,Electronics,11.1,8.7,4.8,0.24,967
+Textbook 0833,BOO-0833,Books,27.7,21.5,3.3,1.83,109
+Power Bank 0834,ELE-0834,Electronics,16.4,6.2,2.0,0.46,52
+Magazine 0835,BOO-0835,Books,35.0,24.0,0.8,0.31,100
+Picture Frame 0836,FRA-0836,Fragile,25.3,16.2,4.7,0.63,44
+Webcam 0837,ELE-0837,Electronics,11.9,5.5,6.6,0.36,96
+Webcam 0838,ELE-0838,Electronics,11.1,8.0,8.0,0.44,172
+USB Cable 0839,ELE-0839,Electronics,20.4,10.2,3.6,0.19,113
+Jacket 0840,CLO-0840,Clothing,45.6,44.0,5.3,0.76,82
+Textbook 0841,BOO-0841,Books,31.4,24.8,5.9,1.79,94
+Puzzle 0842,TOY-0842,Toys,42.6,27.7,5.7,0.51,199
+Board Game 0843,TOY-0843,Toys,32.0,32.8,6.2,0.7,162
+T-Shirt 0844,CLO-0844,Clothing,25.9,28.5,3.2,0.18,49
+Monitor 0845,ELE-0845,Electronics,60.9,31.4,9.0,7.03,92
+Monitor 0846,ELE-0846,Electronics,65.4,41.5,6.1,3.41,54
+Monitor 0847,ELE-0847,Electronics,51.8,45.0,8.1,5.92,112
+SSD Drive 0848,ELE-0848,Electronics,12.3,8.7,1.1,0.14,110
+Paperback Book 0849,BOO-0849,Books,18.1,12.6,2.5,0.52,58
+Socks 0850,CLO-0850,Clothing,22.9,10.5,2.4,0.08,111
+Textbook 0851,BOO-0851,Books,29.2,23.7,4.4,1.26,813
+Board Game 0852,TOY-0852,Toys,39.0,29.2,5.4,1.48,893
+Board Game 0853,TOY-0853,Toys,27.3,32.5,5.6,0.73,80
+Keyboard 0854,ELE-0854,Electronics,48.8,13.9,3.8,0.7,120
+Headphones 0855,ELE-0855,Electronics,18.8,17.7,8.8,0.37,112
+Hardcover Book 0856,BOO-0856,Books,20.4,19.9,4.6,1.09,49
+Ceramic Mug 0857,FRA-0857,Fragile,14.2,11.5,12.4,0.38,49
+Jacket 0858,CLO-0858,Clothing,52.5,44.2,9.5,1.16,89
+Ceramic Mug 0859,FRA-0859,Fragile,14.7,14.6,12.2,0.37,55
+Textbook 0860,BOO-0860,Books,25.0,25.8,5.6,2.36,235
+Stuffed Animal 0861,TOY-0861,Toys,36.1,28.5,23.0,0.26,415
+Jacket 0862,CLO-0862,Clothing,52.4,42.0,9.6,1.1,170
+Paperback Book 0863,BOO-0863,Books,24.5,14.9,1.0,0.59,114
+Board Game 0864,TOY-0864,Toys,31.5,29.4,8.4,0.62,99
+USB Cable 0865,ELE-0865,Electronics,18.1,13.4,3.1,0.14,99
+Puzzle 0866,TOY-0866,Toys,33.8,24.1,5.7,0.42,83
+Headphones 0867,ELE-0867,Electronics,19.2,16.0,8.5,0.47,84
+Textbook 0868,BOO-0868,Books,32.0,20.2,4.7,1.66,460
+Paperback Book 0869,BOO-0869,Books,20.4,17.4,1.4,0.26,41
+SSD Drive 0870,ELE-0870,Electronics,12.4,7.7,1.9,0.12,199
+Ceramic Mug 0871,FRA-0871,Fragile,13.0,14.7,11.0,0.45,60
+Action Figure 0872,TOY-0872,Toys,22.9,16.2,8.3,0.32,216
+Board Game 0873,TOY-0873,Toys,38.7,31.8,6.8,1.22,90
+Phone Case 0874,ELE-0874,Electronics,17.6,11.2,1.6,0.08,118
+T-Shirt 0875,CLO-0875,Clothing,33.5,28.2,2.7,0.16,81
+Mouse 0876,ELE-0876,Electronics,14.4,8.7,3.1,0.25,102
+T-Shirt 0877,CLO-0877,Clothing,32.7,21.1,3.8,0.25,47
+Jacket 0878,CLO-0878,Clothing,40.3,39.6,9.0,0.79,220
+Laptop 0879,ELE-0879,Electronics,30.3,25.6,2.5,1.52,206
+Paperback Book 0880,BOO-0880,Books,23.3,17.8,1.9,0.53,108
+T-Shirt 0881,CLO-0881,Clothing,27.3,26.0,2.1,0.2,190
+Hardcover Book 0882,BOO-0882,Books,27.0,18.3,3.3,1.43,54
+Picture Frame 0883,FRA-0883,Fragile,37.8,29.5,4.0,0.92,203
+Glass Vase 0884,FRA-0884,Fragile,15.3,19.0,34.0,0.7,86
+Board Game 0885,TOY-0885,Toys,36.8,36.7,9.5,0.86,101
+Monitor 0886,ELE-0886,Electronics,69.9,33.5,6.6,4.34,113
+USB Cable 0887,ELE-0887,Electronics,17.2,13.4,3.7,0.26,101
+Magazine 0888,BOO-0888,Books,31.4,20.0,0.9,0.31,96
+Textbook 0889,BOO-0889,Books,30.8,24.1,3.8,2.11,202
+Power Bank 0890,ELE-0890,Electronics,15.3,8.0,3.7,0.3,43
+Headphones 0891,ELE-0891,Electronics,21.2,18.1,9.9,0.32,226
+Laptop 0892,ELE-0892,Electronics,31.9,20.9,3.9,1.68,213
+Jacket 0893,CLO-0893,Clothing,50.8,46.0,7.4,1.2,97
+Puzzle 0894,TOY-0894,Toys,37.9,22.9,3.7,0.85,183
+Mouse 0895,ELE-0895,Electronics,13.7,7.1,4.8,0.14,41
+Laptop 0896,ELE-0896,Electronics,38.3,21.4,3.6,1.51,211
+Keyboard 0897,ELE-0897,Electronics,41.1,13.4,2.9,0.75,85
+Puzzle 0898,TOY-0898,Toys,30.9,26.5,4.6,0.93,190
+SSD Drive 0899,ELE-0899,Electronics,11.5,8.1,2.7,0.19,45
+Power Bank 0900,ELE-0900,Electronics,14.3,8.2,2.1,0.33,175
+Laptop 0901,ELE-0901,Electronics,33.3,29.7,2.0,2.07,597
+Ceramic Mug 0902,FRA-0902,Fragile,12.5,13.0,14.2,0.51,82
+Headphones 0903,ELE-0903,Electronics,19.5,15.4,7.0,0.26,114
+Headphones 0904,ELE-0904,Electronics,24.7,19.7,7.5,0.43,512
+Puzzle 0905,TOY-0905,Toys,43.4,24.1,4.9,0.75,54
+Glass Vase 0906,FRA-0906,Fragile,24.6,17.0,20.6,1.08,86
+Ceramic Mug 0907,FRA-0907,Fragile,10.5,10.6,11.9,0.55,87
+Paperback Book 0908,BOO-0908,Books,21.8,15.6,2.6,0.25,43
+Ceramic Mug 0909,FRA-0909,Fragile,10.8,12.6,11.8,0.48,85
+Shoes 0910,CLO-0910,Clothing,26.4,22.8,10.9,0.61,46
+Board Game 0911,TOY-0911,Toys,36.2,35.7,8.6,0.75,42
+Textbook 0912,BOO-0912,Books,34.1,21.4,4.5,2.11,912
+Ceramic Mug 0913,FRA-0913,Fragile,11.0,13.3,13.2,0.43,459
+Monitor 0914,ELE-0914,Electronics,58.0,32.6,9.9,5.24,217
+Shoes 0915,CLO-0915,Clothing,30.0,21.5,10.7,0.7,231
+Jacket 0916,CLO-0916,Clothing,54.5,35.2,6.9,0.61,238
+Puzzle 0917,TOY-0917,Toys,42.1,34.6,3.9,0.95,58
+Webcam 0918,ELE-0918,Electronics,10.5,7.3,6.3,0.37,93
+Keyboard 0919,ELE-0919,Electronics,41.6,17.0,3.6,0.56,90
+Hardcover Book 0920,BOO-0920,Books,28.4,21.6,4.4,1.13,101
+Webcam 0921,ELE-0921,Electronics,8.9,5.7,6.2,0.28,91
+USB Cable 0922,ELE-0922,Electronics,16.6,13.8,4.0,0.19,80
+Shoes 0923,CLO-0923,Clothing,33.3,18.4,11.6,0.69,49
+Monitor 0924,ELE-0924,Electronics,56.1,37.8,8.4,7.25,210
+Board Game 0925,TOY-0925,Toys,25.2,38.1,8.0,1.45,45
+Paperback Book 0926,BOO-0926,Books,19.2,17.3,2.8,0.55,119
+Jacket 0927,CLO-0927,Clothing,52.1,38.2,7.8,0.73,117
+Jacket 0928,CLO-0928,Clothing,41.3,47.8,6.6,0.8,116
+Paperback Book 0929,BOO-0929,Books,20.1,12.8,1.1,0.4,40
+Board Game 0930,TOY-0930,Toys,30.8,26.2,8.8,0.51,44
+Monitor 0931,ELE-0931,Electronics,56.0,32.3,5.6,7.48,46
+Socks 0932,CLO-0932,Clothing,19.8,11.6,2.7,0.1,805
+Action Figure 0933,TOY-0933,Toys,21.9,15.3,7.8,0.17,49
+Mouse 0934,ELE-0934,Electronics,14.1,6.8,3.9,0.11,113
+Hardcover Book 0935,BOO-0935,Books,22.5,20.4,4.1,0.89,198
+Glass Vase 0936,FRA-0936,Fragile,18.8,22.7,29.8,1.08,202
+Webcam 0937,ELE-0937,Electronics,9.7,7.8,5.5,0.24,52
+Phone Case 0938,ELE-0938,Electronics,17.3,10.4,1.1,0.08,83
+Webcam 0939,ELE-0939,Electronics,10.5,5.8,7.9,0.46,98
+Picture Frame 0940,FRA-0940,Fragile,26.5,28.4,3.5,0.62,199
+SSD Drive 0941,ELE-0941,Electronics,11.5,7.5,1.9,0.15,48
+Ceramic Mug 0942,FRA-0942,Fragile,13.4,13.4,13.5,0.58,110
+Stuffed Animal 0943,TOY-0943,Toys,35.9,27.5,29.9,0.72,50
+USB Cable 0944,ELE-0944,Electronics,17.5,11.0,2.5,0.29,199
+Picture Frame 0945,FRA-0945,Fragile,37.9,22.9,3.8,0.92,107
+Ceramic Mug 0946,FRA-0946,Fragile,11.8,10.9,12.6,0.32,43
+Monitor 0947,ELE-0947,Electronics,60.2,30.3,6.4,6.55,457
+Puzzle 0948,TOY-0948,Toys,37.3,32.9,4.1,0.97,108
+USB Cable 0949,ELE-0949,Electronics,15.6,11.4,3.3,0.2,44
+Socks 0950,CLO-0950,Clothing,17.9,10.4,2.5,0.05,55
+Laptop 0951,ELE-0951,Electronics,32.4,20.2,4.4,2.83,43
+T-Shirt 0952,CLO-0952,Clothing,32.1,28.6,4.5,0.25,111
+Mouse 0953,ELE-0953,Electronics,12.3,7.6,4.0,0.25,211
+Paperback Book 0954,BOO-0954,Books,19.7,15.4,1.2,0.29,239
+Webcam 0955,ELE-0955,Electronics,10.3,6.2,6.9,0.48,196
+Glass Vase 0956,FRA-0956,Fragile,15.1,18.5,28.3,1.45,217
+T-Shirt 0957,CLO-0957,Clothing,30.5,25.9,2.8,0.27,42
+Jacket 0958,CLO-0958,Clothing,45.7,41.7,7.5,0.95,182
+T-Shirt 0959,CLO-0959,Clothing,25.2,20.1,2.5,0.15,193
+Monitor 0960,ELE-0960,Electronics,55.9,42.4,6.7,6.5,59
+Laptop 0961,ELE-0961,Electronics,37.2,29.6,4.1,2.47,101
+T-Shirt 0962,CLO-0962,Clothing,32.1,22.3,4.2,0.29,219
+Glass Vase 0963,FRA-0963,Fragile,22.2,19.1,29.4,0.62,192
+Glass Vase 0964,FRA-0964,Fragile,19.6,15.3,28.1,1.13,102
+Paperback Book 0965,BOO-0965,Books,19.3,17.1,1.6,0.26,412
+Mouse 0966,ELE-0966,Electronics,14.0,8.4,3.8,0.27,56
+Jacket 0967,CLO-0967,Clothing,53.1,48.8,6.6,0.99,44
+Socks 0968,CLO-0968,Clothing,21.2,12.1,4.0,0.06,56
+Mouse 0969,ELE-0969,Electronics,13.8,7.5,3.2,0.21,44
+Textbook 0970,BOO-0970,Books,27.7,26.8,3.5,1.29,56
+Power Bank 0971,ELE-0971,Electronics,14.4,6.3,3.7,0.33,40
+Paperback Book 0972,BOO-0972,Books,18.4,14.7,1.6,0.21,195
+Glass Vase 0973,FRA-0973,Fragile,21.6,20.1,25.9,0.59,106
+Picture Frame 0974,FRA-0974,Fragile,37.1,28.5,3.6,1.21,40
+Ceramic Mug 0975,FRA-0975,Fragile,10.2,14.1,10.6,0.38,586
+Headphones 0976,ELE-0976,Electronics,18.0,16.0,7.2,0.31,52
+Glass Vase 0977,FRA-0977,Fragile,18.0,17.9,22.8,0.62,52
+SSD Drive 0978,ELE-0978,Electronics,11.2,7.0,1.5,0.16,472
+Magazine 0979,BOO-0979,Books,26.3,22.1,1.2,0.36,43
+Glass Vase 0980,FRA-0980,Fragile,15.1,19.7,21.8,0.5,102
+Hardcover Book 0981,BOO-0981,Books,21.2,24.7,3.8,0.55,103
+Monitor 0982,ELE-0982,Electronics,65.5,36.2,7.6,6.53,100
+Power Bank 0983,ELE-0983,Electronics,12.2,7.8,3.3,0.57,227
+Stuffed Animal 0984,TOY-0984,Toys,20.9,22.4,16.6,0.57,87
+Textbook 0985,BOO-0985,Books,34.1,21.9,3.3,1.54,95
+Keyboard 0986,ELE-0986,Electronics,47.5,15.1,4.0,0.84,45
+Puzzle 0987,TOY-0987,Toys,31.9,27.6,4.7,0.57,40
+Mouse 0988,ELE-0988,Electronics,14.8,6.4,4.7,0.14,80
+Textbook 0989,BOO-0989,Books,26.4,23.7,3.9,1.32,202
+Headphones 0990,ELE-0990,Electronics,23.9,21.3,6.3,0.24,81
+Picture Frame 0991,FRA-0991,Fragile,22.9,18.3,2.5,0.55,86
+Keyboard 0992,ELE-0992,Electronics,46.8,13.1,2.1,0.73,100
+Puzzle 0993,TOY-0993,Toys,40.2,30.6,5.3,0.45,178
+USB Cable 0994,ELE-0994,Electronics,22.0,14.5,3.5,0.23,55
+Magazine 0995,BOO-0995,Books,33.2,25.2,1.5,0.28,51
+Socks 0996,CLO-0996,Clothing,19.9,14.9,4.0,0.09,235
+Power Bank 0997,ELE-0997,Electronics,14.9,7.8,2.4,0.34,454
+Socks 0998,CLO-0998,Clothing,21.6,12.4,2.7,0.12,55
+Laptop 0999,ELE-0999,Electronics,36.7,22.3,3.4,2.17,851
+Socks 1000,CLO-1000,Clothing,15.3,13.9,2.3,0.05,45

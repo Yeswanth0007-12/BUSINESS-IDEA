@@ -1,0 +1,65 @@
+# Render Blueprint for PackOptima
+# This file defines all services needed for deployment
+
+services:
+  # PostgreSQL Database
+  - type: pserv
+    name: packoptima-db
+    env: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile.backend
+    dockerContext: .
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: packoptima-postgres
+          property: connectionString
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ALGORITHM
+        value: HS256
+      - key: ACCESS_TOKEN_EXPIRE_HOURS
+        value: 24
+      - key: REDIS_URL
+        fromService:
+          name: packoptima-redis
+          type: redis
+          property: connectionString
+      - key: CELERY_BROKER_URL
+        fromService:
+          name: packoptima-redis
+          type: redis
+          property: connectionString
+      - key: CELERY_RESULT_BACKEND
+        fromService:
+          name: packoptima-redis
+          type: redis
+          property: connectionString
+      - key: ALLOWED_ORIGINS
+        value: https://packoptima-frontend.onrender.com
+    healthCheckPath: /health
+
+  # Frontend Web Service
+  - type: web
+    name: packoptima-frontend
+    env: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile.frontend
+    dockerContext: .
+    envVars:
+      - key: VITE_API_URL
+        value: https://packoptima-backend.onrender.com
+
+databases:
+  - name: packoptima-postgres
+    databaseName: packoptima_db
+    user: packoptima_user
+    plan: free
+    region: singapore
+
+  - name: packoptima-redis
+    plan: free
+    region: singapore
+    maxmemoryPolicy: noeviction

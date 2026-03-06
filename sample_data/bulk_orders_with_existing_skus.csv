@@ -1,0 +1,26 @@
+order_number,customer_name,product_sku,quantity
+ORD-100001,Tech Solutions Inc,ELEC-LAP-15,5
+ORD-100001,Tech Solutions Inc,ELEC-MOU-WL,10
+ORD-100001,Tech Solutions Inc,ELEC-KEY-MEC,5
+ORD-100002,Office Supplies Co,ELEC-SSD-1TB,20
+ORD-100002,Office Supplies Co,ELEC-CAB-UC2,30
+ORD-100003,Retail Store A,ACC-PHO-CAS,50
+ORD-100003,Retail Store A,ACC-SCR-PRO,50
+ORD-100004,Corporate Client B,ELEC-MON-24,8
+ORD-100004,Corporate Client B,ELEC-WEB-HD,8
+ORD-100004,Corporate Client B,ELEC-HEA-WL,8
+ORD-100005,Startup Company,ELEC-POW-10K,15
+ORD-100005,Startup Company,ELEC-SPK-BT,10
+ORD-100006,School District,STAT-NOT-A5,100
+ORD-100006,School District,STAT-PEN-10,50
+ORD-100007,Restaurant Chain,HOME-BOT-1L,30
+ORD-100007,Restaurant Chain,HOME-MUG-COF,40
+ORD-100008,Design Agency,ACC-LAP-STD,12
+ORD-100008,Design Agency,HOME-LAM-LED,12
+ORD-100008,Design Agency,ACC-PAD-XL,12
+ORD-100009,IT Department,ELEC-CAB-HD3,25
+ORD-100009,IT Department,ELEC-SSD-1TB,15
+ORD-100010,E-commerce Store,ELEC-LAP-15,3
+ORD-100010,E-commerce Store,ELEC-MOU-WL,6
+ORD-100010,E-commerce Store,ELEC-KEY-MEC,3
+ORD-100010,E-commerce Store,ELEC-MON-24,2

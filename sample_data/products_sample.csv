@@ -1,0 +1,21 @@
+name,sku,category,length_cm,width_cm,height_cm,weight_kg,monthly_order_volume
+Laptop 15 inch,ELEC-LAP-15,Electronics,38,27,3,2.1,450
+Wireless Mouse,ELEC-MOU-WL,Electronics,12,8,4,0.12,850
+USB-C Cable 2m,ELEC-CAB-UC2,Electronics,15,10,2,0.08,1200
+Mechanical Keyboard,ELEC-KEY-MEC,Electronics,45,15,4,1.1,320
+24 inch Monitor,ELEC-MON-24,Electronics,60,45,12,5.2,180
+Webcam HD,ELEC-WEB-HD,Electronics,8,6,6,0.15,420
+Headphones Wireless,ELEC-HEA-WL,Electronics,20,18,8,0.25,680
+Phone Case,ACC-PHO-CAS,Accessories,16,9,2,0.05,2100
+Screen Protector,ACC-SCR-PRO,Accessories,18,10,0.5,0.02,1800
+Power Bank 10000mAh,ELEC-POW-10K,Electronics,14,7,2,0.22,950
+Bluetooth Speaker,ELEC-SPK-BT,Electronics,18,8,8,0.45,520
+Laptop Stand,ACC-LAP-STD,Accessories,28,25,5,0.8,340
+Desk Lamp LED,HOME-LAM-LED,Home,35,15,45,1.2,280
+Notebook A5,STAT-NOT-A5,Stationery,21,15,1,0.18,1500
+Pen Set 10pcs,STAT-PEN-10,Stationery,18,12,2,0.12,890
+Water Bottle 1L,HOME-BOT-1L,Home,28,8,8,0.15,720
+Coffee Mug,HOME-MUG-COF,Home,12,10,10,0.35,640
+Mouse Pad XL,ACC-PAD-XL,Accessories,90,40,0.3,0.25,480
+HDMI Cable 3m,ELEC-CAB-HD3,Electronics,20,15,3,0.18,560
+External SSD 1TB,ELEC-SSD-1TB,Electronics,11,6,1,0.08,290

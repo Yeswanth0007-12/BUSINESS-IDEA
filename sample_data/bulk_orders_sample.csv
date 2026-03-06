@@ -1,0 +1,17 @@
+order_number,customer_name,product_sku,quantity
+ORD-001,John Smith,PROD-001,2
+ORD-001,John Smith,PROD-002,1
+ORD-002,Jane Doe,PROD-003,3
+ORD-002,Jane Doe,PROD-001,1
+ORD-003,Bob Johnson,PROD-002,5
+ORD-004,Alice Williams,PROD-001,2
+ORD-004,Alice Williams,PROD-003,1
+ORD-004,Alice Williams,PROD-002,2
+ORD-005,Charlie Brown,PROD-001,10
+ORD-006,Diana Prince,PROD-002,3
+ORD-006,Diana Prince,PROD-003,2
+ORD-007,Eve Adams,PROD-001,1
+ORD-008,Frank Miller,PROD-003,4
+ORD-009,Grace Lee,PROD-001,2
+ORD-009,Grace Lee,PROD-002,1
+ORD-010,Henry Ford,PROD-003,6

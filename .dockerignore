@@ -1,0 +1,33 @@
+# Backend
+backend/__pycache__
+backend/**/__pycache__
+backend/.pytest_cache
+backend/venv
+backend/.env
+backend/*.pyc
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+frontend/.env.local
+
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+!README.md
+
+# Test files (commented out - we need tests in Docker)
+# **/test_*.py
+# **/*_test.py
+PHASE_*.md
+COMPREHENSIVE_*.py
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo

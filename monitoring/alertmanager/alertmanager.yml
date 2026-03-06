@@ -1,0 +1,60 @@
+global:
+  resolve_timeout: 5m
+  # Configure your Slack webhook URL here
+  # slack_api_url: 'https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK'
+
+route:
+  group_by: ['alertname', 'cluster', 'service']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 12h
+  receiver: 'default'
+  routes:
+    # Critical alerts
+    - match:
+        severity: critical
+      receiver: 'critical'
+      continue: true
+    
+    # Warning alerts
+    - match:
+        severity: warning
+      receiver: 'warning'
+
+receivers:
+  - name: 'default'
+    # Configure email notifications
+    # email_configs:
+    #   - to: 'ops@packoptima.ai'
+    #     from: 'alerts@packoptima.ai'
+    #     smarthost: 'smtp.gmail.com:587'
+    #     auth_username: 'alerts@packoptima.ai'
+    #     auth_password: 'your-password'
+
+  - name: 'critical'
+    # Configure Slack for critical alerts
+    # slack_configs:
+    #   - channel: '#packoptima-critical'
+    #     title: '🚨 CRITICAL: {{ .GroupLabels.alertname }}'
+    #     text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+    #     send_resolved: true
+    
+    # Configure PagerDuty for critical alerts
+    # pagerduty_configs:
+    #   - service_key: 'your-pagerduty-service-key'
+    #     description: '{{ .GroupLabels.alertname }}'
+
+  - name: 'warning'
+    # Configure Slack for warning alerts
+    # slack_configs:
+    #   - channel: '#packoptima-alerts'
+    #     title: '⚠️ WARNING: {{ .GroupLabels.alertname }}'
+    #     text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+    #     send_resolved: true
+
+inhibit_rules:
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname', 'instance']
