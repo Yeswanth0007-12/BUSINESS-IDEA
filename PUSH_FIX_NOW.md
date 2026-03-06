@@ -2,9 +2,10 @@
 
 ## ✅ What I Did
 
-I fixed the pydantic build error and committed the changes:
-- Updated `backend/requirements.txt` with compatible versions
-- Created `RENDER_BUILD_FIX.md` with full explanation
+I fixed the pydantic build error with 2 changes:
+1. Created `runtime.txt` to force Python 3.11 (better compatibility)
+2. Updated `backend/requirements.txt` with stable pydantic 2.3.0
+3. Created `RENDER_BUILD_FIX.md` with full explanation
 
 **Commit is ready** - just needs to be pushed!
 
@@ -13,7 +14,7 @@ I fixed the pydantic build error and committed the changes:
 ## 📤 Push Using GitHub Desktop (EASIEST)
 
 1. Open **GitHub Desktop**
-2. You should see the commit: "Fix pydantic version for Render deployment"
+2. You should see the commit: "Fix Render build: use Python 3.11 and stable pydantic"
 3. Click **"Push origin"** button (top right)
 4. Done! ✅
 
@@ -31,16 +32,21 @@ git push origin main
 
 ## 🔧 What Was Fixed
 
-**File**: `backend/requirements.txt`
+**File 1**: `runtime.txt` (NEW)
+```
+python-3.11.9
+```
+Forces Render to use Python 3.11 instead of 3.14
+
+**File 2**: `backend/requirements.txt`
 
 **Changes**:
 ```
-pydantic==2.5.0 → pydantic==2.4.2
+pydantic==2.5.0 → pydantic==2.3.0
 pydantic-settings==2.1.0 → pydantic-settings==2.0.3
-Added: pydantic-core==2.10.1
 ```
 
-**Why**: These versions have pre-built wheels, so Render won't need to compile Rust code!
+**Why**: Python 3.11 + pydantic 2.3.0 have pre-built wheels, so Render won't need to compile Rust code!
 
 ---
 
